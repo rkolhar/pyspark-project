@@ -3,13 +3,9 @@ import json
 import pandas as pd
 from config.logger import Log4j
 
-from pyspark.sql.types import DoubleType, IntegerType, StringType, StructField, StructType, TimestampType
-from pyspark.sql import functions as F
-import pyarrow
 
-
-def fix_json(spark):
-    with open(r'C:\Users\kolr.DESKTOP-MGHFAS5\Desktop\clue\data_source_3.json', "r", encoding="utf-8") as f:
+def fix_json():
+    with open('../input/data_source_3.json', "r", encoding="utf-8") as f:
         bad_json = f.read()
 
     fix_1 = re.sub(r"(\"\w+\") (\"\w+\s\w+\s\d),", r'\1: \2",', bad_json)
@@ -19,23 +15,20 @@ def fix_json(spark):
     json_list = json.loads(fix_3)
     df = pd.DataFrame(json_list)
 
-    df.to_parquet('fixed_json1.parquet')
-   # return df
-
-  #  df2 = pd.read_parquet('fixed_json.parquet')
+    df.to_parquet('../output/fixed_json.parquet')
+  #  return df
   #  print(df2.head(10))
 
 
 def read_parquet():
-  #  df =spark.read.parquet('fixed_json1.parquet')
-    df2 = pd.read_parquet('fixed_json1.parquet') # see if i can just use pd 
+    df2 = pd.read_parquet('../output/fixed_json.parquet')
 
     return df2
 
 
 def aggregate_model(df):
 
-    df_id = pd.concat(i for _, i in df.groupby("id") if len(i) > 1)
+    df = pd.concat(i for _, i in df.groupby("id") if len(i) > 1)
     df[["model_name"]] = [df['first_device_type'].str.split(" ", n=0, expand=True)]
 
     df_model = pd.concat(m for _, m in df.groupby(["id", "model_name"]) if len(m) > 1)
@@ -48,16 +41,6 @@ def aggregate_model(df):
 
     df_result = pd.concat([df_device, df_created], axis=1).reset_index()
     print(df_result)
-    df_result.to_parquet('aggregated_model.parquet')
+    df_result.to_parquet('../output/aggregated_model.parquet')
+    df_result.to_csv('../output/aggregated_model.csv')
     return df_result
-
-
-#def write_to_parquet
-#  '''   
- # df1 = spark.createDataFrame(df, schema = StructType([
- #       StructField("first_device_type", StringType()),
- #       StructField("id", StringType()),
- #       StructField("created_at", DoubleType()),
- #       StructField("device_model", StringType())]))
-    
- 

@@ -5,7 +5,7 @@ from pyspark import SparkConf
 from config.logger import Log4j
 from fix_json import fix_json, aggregate_model, read_parquet
 from sleep_duration import read_source_2, sleep_range, write_sleep
-from aggregate_events import  read_source_1
+from aggregate_events import  read_source_1, unionAll, write_join
 
 
 def main():
@@ -20,15 +20,17 @@ def main():
 
 	logger = Log4j(spark)
 
-#	fix = fix_json(spark)
-#	df = read_parquet()
-#	aggregate_model(df)
+	fix = fix_json()
+	df = read_parquet()
+	aggregate_model(df)
 
-	read_df = read_source_2(spark)
-	sleep_df = sleep_range(read_df)
-	write_sleep(sleep_df)
+#	read_df = read_source_2(spark)
+#	sleep_df = sleep_range(read_df)
+#	write_sleep(sleep_df)
 
 #	read_2_df = read_source_1(spark)
+#	sleep_join = unionAll(read_2_df, sleep_df)
+#	write_join(sleep_join)
 
 	# TO DO
 	# correct utc timestamp
