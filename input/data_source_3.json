@@ -1,0 +1,5036 @@
+[
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "91299",
+    "created_at": "2020-02-05 21:41:04"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s",
+    "id": "11504",
+    "created_at": "2020-02-06 20:46:43"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "92433",
+    "created_at": "2020-02-07 09:35:57"
+  },
+  {
+    "first_device_type": "Samsung Galaxy S4",
+    "id": "10510",
+    "created_at": "2020-02-07 11:28:49"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s Plus",
+    "id": "98324",
+    "created_at": "2020-02-07 15:01:52"
+  },
+  {
+    "first_device_type": "Apple iPhone 6 Plus",
+    "id": "90912",
+    "created_at": "2020-02-08 20:10:38"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s Plus",
+    "id": "96360",
+    "created_at": "2020-02-09 09:30:48"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "93311",
+    "created_at": "2020-02-09 11:39:57"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "91750",
+    "created_at": "2020-02-09 13:53:47"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "94007",
+    "created_at": "2020-02-09 16:59:46"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "91981",
+    "created_at": "2020-02-09 21:43:55"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "93653",
+    "created_at": "2020-02-09 21:49:36"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "93869",
+    "created_at": "2020-02-10 00:45:42"
+  },
+  {
+    "first_device_type": "Apple iPad Mini",
+    "id": "90928",
+    "created_at": "2020-02-10 01:53:12"
+  },
+  {
+    "first_device_type": "LG G5 H860 Titan",
+    "id": "99626",
+    "created_at": "2020-02-10 14:53:41"
+  },
+  {
+    "first_device_type": "Samsung Galaxy S5",
+    "id": "10681",
+    "created_at": "2020-02-10 16:25:35"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "91010",
+    "created_at": "2020-02-10 20:11:55"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "98197",
+    "created_at": "2020-02-10 21:14:19"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "91275",
+    "created_at": "2020-02-11 04:10:40"
+  },
+  {
+    "first_device_type": "Apple iPhone 7",
+    "id": "10079",
+    "created_at": "2020-02-11 16:43:05"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "92642",
+    "created_at": "2020-02-11 16:54:09"
+  },
+  {
+    "first_device_type": "Apple iPhone 7",
+    "id": "95137",
+    "created_at": "2020-02-11 18:41:33"
+  },
+  {
+    "first_device_type": "Apple iPhone 5",
+    "id": "95677",
+    "created_at": "2020-02-11 20:21:22"
+  },
+  {
+    "first_device_type": "Apple iPhone 5c",
+    "id": "91937",
+    "created_at": "2020-02-11 21:17:58"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "95106",
+    "created_at": "2020-02-12 14:39:26"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "90998",
+    "created_at": "2020-02-12 16:17:01"
+  },
+  {
+    "first_device_type": "Apple iPhone 6 Plus",
+    "id": "11809",
+    "created_at": "2020-02-12 19:10:00"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "94249",
+    "created_at": "2020-02-12 22:33:12"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "10467",
+    "created_at": "2020-02-13 07:16:10"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "91376",
+    "created_at": "2020-02-13 07:18:58"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "92980",
+    "created_at": "2020-02-13 08:00:08"
+  },
+  {
+    "first_device_type": "Apple iPhone 5c",
+    "id": "97403",
+    "created_at": "2020-02-13 09:54:40"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "96517",
+    "created_at": "2020-02-13 19:01:57"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "94370",
+    "created_at": "2020-02-13 19:52:36"
+  },
+  {
+    "first_device_type": "Apple iPhone 5",
+    "id": "92569",
+    "created_at": "2020-02-13 21:04:42"
+  },
+  {
+    "first_device_type": "Apple iPhone 7",
+    "id": "13618",
+    "created_at": "2020-02-14 00:53:51"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "11735",
+    "created_at": "2020-02-14 01:25:51"
+  },
+  {
+    "first_device_type": "Motorola Moto G",
+    "id": "99792",
+    "created_at": "2020-02-14 03:52:58"
+  },
+  {
+    "first_device_type": "Apple iPhone 5",
+    "id": "94463",
+    "created_at": "2020-02-14 10:20:00"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s",
+    "id": "92882",
+    "created_at": "2020-02-14 12:01:27"
+  },
+  {
+    "first_device_type": "Apple iPhone 7",
+    "id": "93062",
+    "created_at": "2020-02-14 13:43:27"
+  },
+  {
+    "first_device_type": "Oppo F1S",
+    "id": "10221",
+    "created_at": "2020-02-14 14:02:59"
+  },
+  {
+    "first_device_type": "Apple iPhone 7 Plus",
+    "id": "94407",
+    "created_at": "2020-02-14 15:14:31"
+  },
+  {
+    "first_device_type": "Apple iPhone 7",
+    "id": "93805",
+    "created_at": "2020-02-14 15:37:25"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "94354",
+    "created_at": "2020-02-14 23:55:50"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s",
+    "id": "91932",
+    "created_at": "2020-02-15 02:59:32"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "10101",
+    "created_at": "2020-02-15 03:34:33"
+  },
+  {
+    "first_device_type": "Google Nexus 5",
+    "id": "10117",
+    "created_at": "2020-02-15 04:34:40"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "92509",
+    "created_at": "2020-02-15 12:28:24"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "10168",
+    "created_at": "2020-02-15 16:27:41"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "15242",
+    "created_at": "2020-02-15 17:01:49"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "90866",
+    "created_at": "2020-02-15 18:43:11"
+  },
+  {
+    "first_device_type": "Apple iPhone 7",
+    "id": "93940",
+    "created_at": "2020-02-15 19:00:08"
+  },
+  {
+    "first_device_type": "Samsung Galaxy A5",
+    "id": "10435",
+    "created_at": "2020-02-15 22:10:31"
+  },
+  {
+    "first_device_type": "Apple iPhone 5c",
+    "id": "91507",
+    "created_at": "2020-02-15 22:15:02"
+  },
+  {
+    "first_device_type": "Apple iPhone 4s",
+    "id": "12620",
+    "created_at": "2020-02-15 22:57:34"
+  },
+  {
+    "first_device_type": "Apple iPad Mini",
+    "id": "10765",
+    "created_at": "2020-02-16 03:52:38"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "91543",
+    "created_at": "2020-02-16 05:04:17"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s",
+    "id": "91510",
+    "created_at": "2020-02-16 08:29:33"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "10705",
+    "created_at": "2020-02-16 10:03:40"
+  },
+  {
+    "first_device_type": "Apple iPhone 5c",
+    "id": "92485",
+    "created_at": "2020-02-16 11:10:41"
+  },
+  {
+    "first_device_type": "Apple iPhone 5c",
+    "id": "95935",
+    "created_at": "2020-02-16 15:10:09"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "10623",
+    "created_at": "2020-02-16 21:35:43"
+  },
+  {
+    "first_device_type": "Samsung Galaxy S6",
+    "id": "10327",
+    "created_at": "2020-02-16 22:47:59"
+  },
+  {
+    "first_device_type": "Apple iPhone 5",
+    "id": "91608",
+    "created_at": "2020-02-17 01:24:03"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "92467",
+    "created_at": "2020-02-17 02:39:58"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "92556",
+    "created_at": "2020-02-17 03:50:12"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "93311",
+    "created_at": "2020-02-17 12:26:51"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "93848",
+    "created_at": "2020-02-17 12:36:24"
+  },
+  {
+    "first_device_type": "Apple iPhone 5",
+    "id": "10595",
+    "created_at": "2020-02-17 14:26:02"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s",
+    "id": "91881",
+    "created_at": "2020-02-17 15:53:49"
+  },
+  {
+    "first_device_type": "Google Nexus 5",
+    "id": "99867",
+    "created_at": "2020-02-17 17:03:19"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "92242",
+    "created_at": "2020-02-17 19:13:26"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "97578",
+    "created_at": "2020-02-17 22:29:17"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "91605",
+    "created_at": "2020-02-17 22:50:36"
+  },
+  {
+    "first_device_type": "Samsung Galaxy S5",
+    "id": "10218",
+    "created_at": "2020-02-18 01:13:25"
+  },
+  {
+    "first_device_type": "Apple iPhone 5",
+    "id": "92004",
+    "created_at": "2020-02-18 06:18:58"
+  },
+  {
+    "first_device_type": "Apple iPod Touch 5G",
+    "id": "93868",
+    "created_at": "2020-02-18 10:20:57"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "11823",
+    "created_at": "2020-02-18 11:05:22"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s",
+    "id": "98352",
+    "created_at": "2020-02-18 11:40:28"
+  },
+  {
+    "first_device_type": "Apple iPhone 5",
+    "id": "91168",
+    "created_at": "2020-02-18 11:51:11"
+  },
+  {
+    "first_device_type": "Apple iPhone 5",
+    "id": "96721",
+    "created_at": "2020-02-18 13:33:28"
+  },
+  {
+    "first_device_type": "Samsung Galaxy S5",
+    "id": "10622",
+    "created_at": "2020-02-18 14:38:46"
+  },
+  {
+    "first_device_type": "Samsung Galaxy S4 Mini",
+    "id": "10738",
+    "created_at": "2020-02-18 15:12:54"
+  },
+  {
+    "first_device_type": "Apple iPad Mini 2",
+    "id": "98347",
+    "created_at": "2020-02-18 16:56:46"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s",
+    "id": "93247",
+    "created_at": "2020-02-18 18:24:03"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "93593",
+    "created_at": "2020-02-18 20:37:01"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "99511",
+    "created_at": "2020-02-18 20:51:02"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "96707",
+    "created_at": "2020-02-18 21:40:27"
+  },
+  {
+    "first_device_type": "Samsung Galaxy J7",
+    "id": "99854",
+    "created_at": "2020-02-19 00:13:37"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "10058",
+    "created_at": "2020-02-19 02:12:19"
+  },
+  {
+    "first_device_type": "Apple iPhone 7 Plus",
+    "id": "10119",
+    "created_at": "2020-02-19 03:15:37"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "96573",
+    "created_at": "2020-02-19 04:11:13"
+  },
+  {
+    "first_device_type": "Apple iPhone 5",
+    "id": "96592",
+    "created_at": "2020-02-19 07:15:52"
+  },
+  {
+    "first_device_type": "Apple iPhone 5",
+    "id": "92235",
+    "created_at": "2020-02-19 07:45:43"
+  },
+  {
+    "first_device_type": "Apple iPhone 5c",
+    "id": "96680",
+    "created_at": "2020-02-19 10:11:52"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "92106",
+    "created_at": "2020-02-19 10:43:23"
+  },
+  {
+    "first_device_type": "Apple iPhone 5c",
+    "id": "98520",
+    "created_at": "2020-02-19 11:53:31"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "92066",
+    "created_at": "2020-02-19 13:53:41"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "13800",
+    "created_at": "2020-02-19 14:30:18"
+  },
+  {
+    "first_device_type": "Apple iPad 2",
+    "id": "98408",
+    "created_at": "2020-02-19 15:27:57"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "94874",
+    "created_at": "2020-02-19 15:28:01"
+  },
+  {
+    "first_device_type": "Apple iPhone 7",
+    "id": "97923",
+    "created_at": "2020-02-19 18:46:08"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "91584",
+    "created_at": "2020-02-19 18:56:28"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "92118",
+    "created_at": "2020-02-19 21:27:34"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "92693",
+    "created_at": "2020-02-20 00:14:05"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "92248",
+    "created_at": "2020-02-20 00:41:48"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s",
+    "id": "99058",
+    "created_at": "2020-02-20 02:10:29"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "99514",
+    "created_at": "2020-02-20 03:32:40"
+  },
+  {
+    "first_device_type": "Apple iPhone 5c",
+    "id": "93328",
+    "created_at": "2020-02-20 04:17:15"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "10711",
+    "created_at": "2020-02-20 05:46:28"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "96446",
+    "created_at": "2020-02-20 07:03:01"
+  },
+  {
+    "first_device_type": "Motorola Moto G 4G",
+    "id": "11280",
+    "created_at": "2020-02-20 07:11:18"
+  },
+  {
+    "first_device_type": "Xiaomi Redmi 3S",
+    "id": "14871",
+    "created_at": "2020-02-20 07:19:42"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "95198",
+    "created_at": "2020-02-20 07:48:38"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s Plus",
+    "id": "91569",
+    "created_at": "2020-02-20 10:04:11"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "94477",
+    "created_at": "2020-02-20 13:40:55"
+  },
+  {
+    "first_device_type": "Apple iPhone 6 Plus",
+    "id": "95267",
+    "created_at": "2020-02-20 16:39:17"
+  },
+  {
+    "first_device_type": "Apple iPhone 5",
+    "id": "99241",
+    "created_at": "2020-02-20 16:57:29"
+  },
+  {
+    "first_device_type": "Apple iPhone 5",
+    "id": "10716",
+    "created_at": "2020-02-20 16:59:16"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "95828",
+    "created_at": "2020-02-20 18:11:43"
+  },
+  {
+    "first_device_type": "Apple iPhone 7",
+    "id": "10874",
+    "created_at": "2020-02-20 18:33:27"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s Plus",
+    "id": "93439",
+    "created_at": "2020-02-20 19:41:53"
+  },
+  {
+    "first_device_type": "Apple iPhone 7",
+    "id": "92083",
+    "created_at": "2020-02-20 20:10:59"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "15630",
+    "created_at": "2020-02-20 23:44:34"
+  },
+  {
+    "first_device_type": "Apple iPhone 5c",
+    "id": "93469",
+    "created_at": "2020-02-21 00:20:34"
+  },
+  {
+    "first_device_type": "Samsung Galaxy S7 Edge",
+    "id": "99916",
+    "created_at": "2020-02-21 00:34:53"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "91490",
+    "created_at": "2020-02-21 00:40:43"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s",
+    "id": "91534",
+    "created_at": "2020-02-21 00:57:22"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "11321",
+    "created_at": "2020-02-21 01:01:12"
+  },
+  {
+    "first_device_type": "Apple iPhone 5",
+    "id": "96147",
+    "created_at": "2020-02-21 05:44:42"
+  },
+  {
+    "first_device_type": "Apple iPhone 4s",
+    "id": "95774",
+    "created_at": "2020-02-21 05:48:49"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "91809",
+    "created_at": "2020-02-21 06:19:14"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "92092",
+    "created_at": "2020-02-21 07:14:48"
+  },
+  {
+    "first_device_type": "Apple iPhone 5c",
+    "id": "92683",
+    "created_at": "2020-02-21 09:11:24"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "14613",
+    "created_at": "2020-02-21 10:09:33"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "91539",
+    "created_at": "2020-02-21 10:21:12"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "90713",
+    "created_at": "2020-02-21 12:26:22"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "10067",
+    "created_at": "2020-02-21 13:26:19"
+  },
+  {
+    "first_device_type": "Apple iPhone 5",
+    "id": "94068",
+    "created_at": "2020-02-21 14:13:54"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "12651",
+    "created_at": "2020-02-21 14:20:24"
+  },
+  {
+    "first_device_type": "Apple iPad Mini",
+    "id": "91454",
+    "created_at": "2020-02-21 15:29:07"
+  },
+  {
+    "first_device_type": "HTC Desire 610",
+    "id": "10368",
+    "created_at": "2020-02-21 15:42:06"
+  },
+  {
+    "first_device_type": "Apple iPhone 5",
+    "id": "93751",
+    "created_at": "2020-02-21 16:15:46"
+  },
+  {
+    "first_device_type": "Apple iPhone 5c",
+    "id": "14184",
+    "created_at": "2020-02-21 16:20:09"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "98702",
+    "created_at": "2020-02-21 16:32:33"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "92199",
+    "created_at": "2020-02-21 16:47:00"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "92974",
+    "created_at": "2020-02-21 16:48:25"
+  },
+  {
+    "first_device_type": "Samsung Galaxy Tab 3 8.0",
+    "id": "24710",
+    "created_at": "2020-02-21 17:20:48"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "13547",
+    "created_at": "2020-02-21 19:24:19"
+  },
+  {
+    "first_device_type": "Apple iPhone 4s",
+    "id": "92976",
+    "created_at": "2020-02-21 20:03:17"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "96605",
+    "created_at": "2020-02-21 20:28:32"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "93154",
+    "created_at": "2020-02-21 20:30:56"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "10908",
+    "created_at": "2020-02-21 22:40:08"
+  },
+  {
+    "first_device_type": "Huawei Phone",
+    "id": "10304",
+    "created_at": "2020-02-21 22:46:34"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s Plus",
+    "id": "11106",
+    "created_at": "2020-02-21 23:33:23"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s",
+    "id": "92467",
+    "created_at": "2020-02-22 02:22:41"
+  },
+  {
+    "first_device_type": "Apple iPhone 5c",
+    "id": "10181",
+    "created_at": "2020-02-22 04:39:41"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "10997",
+    "created_at": "2020-02-22 09:16:36"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "96325",
+    "created_at": "2020-02-22 09:18:32"
+  },
+  {
+    "first_device_type": "Sony Xperia Z2",
+    "id": "10181",
+    "created_at": "2020-02-22 09:40:31"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "11982",
+    "created_at": "2020-02-22 11:27:48"
+  },
+  {
+    "first_device_type": "OnePlus One",
+    "id": "10090",
+    "created_at": "2020-02-22 12:44:33"
+  },
+  {
+    "first_device_type": "Apple iPod Touch 5G",
+    "id": "12460",
+    "created_at": "2020-02-22 13:15:05"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "91029",
+    "created_at": "2020-02-22 13:52:28"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "91564",
+    "created_at": "2020-02-22 13:57:24"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "95813",
+    "created_at": "2020-02-22 14:58:15"
+  },
+  {
+    "first_device_type": "Apple iPhone 5c",
+    "id": "91974",
+    "created_at": "2020-02-22 15:06:14"
+  },
+  {
+    "first_device_type": "Apple iPhone 6 Plus",
+    "id": "93298",
+    "created_at": "2020-02-22 15:30:58"
+  },
+  {
+    "first_device_type": "Apple iPhone 7",
+    "id": "95194",
+    "created_at": "2020-02-04 13:12:53"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "93605",
+    "created_at": "2020-02-05 10:00:13"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s",
+    "id": "10942",
+    "created_at": "2020-02-05 16:28:26"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s",
+    "id": "94492",
+    "created_at": "2020-02-07 04:15:28"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "10292",
+    "created_at": "2020-02-07 15:11:22"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "10329",
+    "created_at": "2020-02-07 23:35:24"
+  },
+  {
+    "first_device_type": "Apple iPad 4",
+    "id": "91521",
+    "created_at": "2020-02-08 08:26:55"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "95197",
+    "created_at": "2020-02-08 10:02:47"
+  },
+  {
+    "first_device_type": "Google Nexus 4",
+    "id": "14727",
+    "created_at": "2020-02-08 10:05:13"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "91596",
+    "created_at": "2020-02-08 18:16:06"
+  },
+  {
+    "first_device_type": "Motorola Moto G",
+    "id": "10149",
+    "created_at": "2020-02-08 20:24:43"
+  },
+  {
+    "first_device_type": "Google Nexus 5",
+    "id": "10041",
+    "created_at": "2020-02-09 21:00:12"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "10359",
+    "created_at": "2020-02-10 04:08:01"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "98613",
+    "created_at": "2020-02-10 07:26:17"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "94724",
+    "created_at": "2020-02-10 14:10:54"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "10154",
+    "created_at": "2020-02-10 14:59:32"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "10273",
+    "created_at": "2020-02-10 15:54:03"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "91464",
+    "created_at": "2020-02-10 18:04:07"
+  },
+  {
+    "first_device_type": "Apple iPhone 7",
+    "id": "96051",
+    "created_at": "2020-02-10 23:49:41"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "91417",
+    "created_at": "2020-02-11 21:02:14"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "91579",
+    "created_at": "2020-02-11 21:19:05"
+  },
+  {
+    "first_device_type": "Apple iPhone 5c",
+    "id": "11516",
+    "created_at": "2020-02-12 12:48:57"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "92000",
+    "created_at": "2020-02-12 15:06:00"
+  },
+  {
+    "first_device_type": "Apple iPhone 6 Plus",
+    "id": "12960",
+    "created_at": "2020-02-13 03:13:17"
+  },
+  {
+    "first_device_type": "Apple iPhone 7 Plus",
+    "id": "91786",
+    "created_at": "2020-02-13 07:03:10"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s",
+    "id": "91517",
+    "created_at": "2020-02-13 07:28:19"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "96711",
+    "created_at": "2020-02-13 11:13:47"
+  },
+  {
+    "first_device_type": "Apple iPhone 7 Plus",
+    "id": "11138",
+    "created_at": "2020-02-13 18:16:02"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s",
+    "id": "93965",
+    "created_at": "2020-02-13 18:32:37"
+  },
+  {
+    "first_device_type": "Apple iPhone 7 Plus",
+    "id": "91874",
+    "created_at": "2020-02-13 19:02:04"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "93513",
+    "created_at": "2020-02-13 22:25:30"
+  },
+  {
+    "first_device_type": "Samsung Galaxy Note 4",
+    "id": "99814",
+    "created_at": "2020-02-14 02:05:41"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s Plus",
+    "id": "93612",
+    "created_at": "2020-02-14 04:10:56"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "98346",
+    "created_at": "2020-02-14 11:58:10"
+  },
+  {
+    "first_device_type": "Apple iPhone 5",
+    "id": "97643",
+    "created_at": "2020-02-14 17:05:24"
+  },
+  {
+    "first_device_type": "Apple iPhone 7",
+    "id": "93456",
+    "created_at": "2020-02-14 17:07:34"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "92069",
+    "created_at": "2020-02-14 20:23:19"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "90854",
+    "created_at": "2020-02-14 20:54:15"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "94914",
+    "created_at": "2020-02-14 21:50:52"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "93284",
+    "created_at": "2020-02-15 02:15:40"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "95646",
+    "created_at": "2020-02-15 06:05:48"
+  },
+  {
+    "first_device_type": "Apple iPhone 7",
+    "id": "92234",
+    "created_at": "2020-02-15 08:23:58"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "13760",
+    "created_at": "2020-02-15 10:32:47"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "91003",
+    "created_at": "2020-02-15 10:48:35"
+  },
+  {
+    "first_device_type": "Xiaomi Mi 4i",
+    "id": "11642",
+    "created_at": "2020-02-15 11:10:47"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "91535",
+    "created_at": "2020-02-15 11:30:32"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "92181",
+    "created_at": "2020-02-15 15:20:40"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "12311",
+    "created_at": "2020-02-15 17:18:18"
+  },
+  {
+    "first_device_type": "Apple iPad Air 2",
+    "id": "15106",
+    "created_at": "2020-02-15 18:49:16"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "93909",
+    "created_at": "2020-02-15 19:36:15"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "91969",
+    "created_at": "2020-02-15 20:21:32"
+  },
+  {
+    "first_device_type": "Apple iPhone 6 Plus",
+    "id": "92078",
+    "created_at": "2020-02-15 20:57:11"
+  },
+  {
+    "first_device_type": "Apple iPhone 5",
+    "id": "91639",
+    "created_at": "2020-02-15 22:57:59"
+  },
+  {
+    "first_device_type": "Apple iPhone 7",
+    "id": "10129",
+    "created_at": "2020-02-16 02:14:41"
+  },
+  {
+    "first_device_type": "Samsung Galaxy S5",
+    "id": "10315",
+    "created_at": "2020-02-16 04:20:42"
+  },
+  {
+    "first_device_type": "Apple iPhone 5c",
+    "id": "97610",
+    "created_at": "2020-02-16 09:01:15"
+  },
+  {
+    "first_device_type": "Apple iPhone 5",
+    "id": "94266",
+    "created_at": "2020-02-16 12:42:35"
+  },
+  {
+    "first_device_type": "HTC One",
+    "id": "10013",
+    "created_at": "2020-02-16 15:37:35"
+  },
+  {
+    "first_device_type": "HTC One M8",
+    "id": "10022",
+    "created_at": "2020-02-16 16:18:30"
+  },
+  {
+    "first_device_type": "Samsung Galaxy S5 Mini",
+    "id": "99800",
+    "created_at": "2020-02-16 16:47:12"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "95532",
+    "created_at": "2020-02-16 20:46:44"
+  },
+  {
+    "first_device_type": "Apple iPhone 5c",
+    "id": "94014",
+    "created_at": "2020-02-16 21:39:51"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s",
+    "id": "91541",
+    "created_at": "2020-02-16 22:04:27"
+  },
+  {
+    "first_device_type": "Apple iPod Touch 5G",
+    "id": "12600",
+    "created_at": "2020-02-16 23:07:45"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "93449",
+    "created_at": "2020-02-17 01:42:59"
+  },
+  {
+    "first_device_type": "Samsung Galaxy S7",
+    "id": "10016",
+    "created_at": "2020-02-17 10:46:56"
+  },
+  {
+    "first_device_type": "Apple iPhone 6 Plus",
+    "id": "12597",
+    "created_at": "2020-02-17 11:30:24"
+  },
+  {
+    "first_device_type": "Apple iPhone 5c",
+    "id": "98406",
+    "created_at": "2020-02-17 11:52:57"
+  },
+  {
+    "first_device_type": "Samsung Galaxy S4",
+    "id": "10003",
+    "created_at": "2020-02-17 12:12:26"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "12227",
+    "created_at": "2020-02-17 12:29:49"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "92505",
+    "created_at": "2020-02-17 13:22:31"
+  },
+  {
+    "first_device_type": "Samsung Galaxy Note 3",
+    "id": "10015",
+    "created_at": "2020-02-17 15:01:18"
+  },
+  {
+    "first_device_type": "Apple iPod Touch 5G",
+    "id": "10376",
+    "created_at": "2020-02-17 17:22:02"
+  },
+  {
+    "first_device_type": "Sony Xperia Z3 Compact",
+    "id": "10031",
+    "created_at": "2020-02-17 17:58:16"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "96142",
+    "created_at": "2020-02-17 18:16:19"
+  },
+  {
+    "first_device_type": "Apple iPhone 5c",
+    "id": "95164",
+    "created_at": "2020-02-17 19:50:16"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "99298",
+    "created_at": "2020-02-17 20:55:15"
+  },
+  {
+    "first_device_type": "Apple iPhone 5",
+    "id": "10031",
+    "created_at": "2020-02-17 21:18:22"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "10230",
+    "created_at": "2020-02-18 02:34:17"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "96772",
+    "created_at": "2020-02-18 03:02:04"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "91561",
+    "created_at": "2020-02-18 03:58:32"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s",
+    "id": "91863",
+    "created_at": "2020-02-18 05:04:13"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "91534",
+    "created_at": "2020-02-18 11:32:05"
+  },
+  {
+    "first_device_type": "HTC One S",
+    "id": "99824",
+    "created_at": "2020-02-18 13:28:47"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s",
+    "id": "97231",
+    "created_at": "2020-02-18 13:56:37"
+  },
+  {
+    "first_device_type": "Apple iPhone 7",
+    "id": "95306",
+    "created_at": "2020-02-18 14:01:03"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "92048",
+    "created_at": "2020-02-18 15:34:06"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "91859",
+    "created_at": "2020-02-18 16:11:44"
+  },
+  {
+    "first_device_type": "HTC One M8",
+    "id": "10112",
+    "created_at": "2020-02-18 16:53:16"
+  },
+  {
+    "first_device_type": "Apple iPhone 5",
+    "id": "94406",
+    "created_at": "2020-02-18 18:30:22"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s",
+    "id": "90929",
+    "created_at": "2020-02-18 20:53:29"
+  },
+  {
+    "first_device_type": "Apple iPhone 4s",
+    "id": "90916",
+    "created_at": "2020-02-18 22:16:09"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "10228",
+    "created_at": "2020-02-18 22:22:41"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s",
+    "id": "92022",
+    "created_at": "2020-02-19 02:48:10"
+  },
+  {
+    "first_device_type": "Motorola Moto G",
+    "id": "99896",
+    "created_at": "2020-02-19 05:16:47"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "11598",
+    "created_at": "2020-02-19 06:05:02"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "92128",
+    "created_at": "2020-02-19 09:33:24"
+  },
+  {
+    "first_device_type": "Apple iPhone 5c",
+    "id": "91493",
+    "created_at": "2020-02-19 09:52:19"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s",
+    "id": "91988",
+    "created_at": "2020-02-19 09:58:48"
+  },
+  {
+    "first_device_type": "Apple iPhone 6 Plus",
+    "id": "10035",
+    "created_at": "2020-02-19 13:05:20"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "11660",
+    "created_at": "2020-02-19 13:47:57"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s",
+    "id": "96286",
+    "created_at": "2020-02-19 15:23:22"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "96800",
+    "created_at": "2020-02-19 15:51:46"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "91505",
+    "created_at": "2020-02-19 16:31:37"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "92590",
+    "created_at": "2020-02-19 18:40:45"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "93862",
+    "created_at": "2020-02-19 19:07:50"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "14208",
+    "created_at": "2020-02-19 19:22:07"
+  },
+  {
+    "first_device_type": "Apple iPod Touch 5G",
+    "id": "91082",
+    "created_at": "2020-02-19 21:47:36"
+  },
+  {
+    "first_device_type": "Apple iPhone 6 Plus",
+    "id": "92594",
+    "created_at": "2020-02-19 22:16:30"
+  },
+  {
+    "first_device_type": "Apple iPod Touch 5G",
+    "id": "93617",
+    "created_at": "2020-02-19 22:22:13"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "99202",
+    "created_at": "2020-02-19 23:34:46"
+  },
+  {
+    "first_device_type": "Apple iPhone 6 Plus",
+    "id": "94985",
+    "created_at": "2020-02-20 03:00:08"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "93191",
+    "created_at": "2020-02-20 04:13:45"
+  },
+  {
+    "first_device_type": "Apple iPhone 6 Plus",
+    "id": "98895",
+    "created_at": "2020-02-20 04:50:36"
+  },
+  {
+    "first_device_type": "Apple iPhone 5",
+    "id": "97190",
+    "created_at": "2020-02-20 10:28:53"
+  },
+  {
+    "first_device_type": "Apple iPod Touch 5G",
+    "id": "99292",
+    "created_at": "2020-02-20 13:01:05"
+  },
+  {
+    "first_device_type": "Samsung Galaxy A5",
+    "id": "10399",
+    "created_at": "2020-02-20 14:35:08"
+  },
+  {
+    "first_device_type": "Apple iPhone 5c",
+    "id": "96812",
+    "created_at": "2020-02-20 16:22:45"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s",
+    "id": "94919",
+    "created_at": "2020-02-20 18:15:05"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s Plus",
+    "id": "93571",
+    "created_at": "2020-02-20 18:37:14"
+  },
+  {
+    "first_device_type": "Apple iPhone 6 Plus",
+    "id": "11471",
+    "created_at": "2020-02-20 18:41:51"
+  },
+  {
+    "first_device_type": "Apple iPod Touch 5G",
+    "id": "14416",
+    "created_at": "2020-02-20 18:44:06"
+  },
+  {
+    "first_device_type": "Apple iPhone 7",
+    "id": "95297",
+    "created_at": "2020-02-20 19:01:50"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "12771",
+    "created_at": "2020-02-20 21:03:29"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "10130",
+    "created_at": "2020-02-20 21:47:18"
+  },
+  {
+    "first_device_type": "Sony Xperia Z3 Compact",
+    "id": "10323",
+    "created_at": "2020-02-20 23:02:22"
+  },
+  {
+    "first_device_type": "HTC One M8",
+    "id": "99784",
+    "created_at": "2020-02-21 00:56:58"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s Plus",
+    "id": "10505",
+    "created_at": "2020-02-21 01:08:08"
+  },
+  {
+    "first_device_type": "Samsung Galaxy S5",
+    "id": "99890",
+    "created_at": "2020-02-21 02:06:58"
+  },
+  {
+    "first_device_type": "Motorola Moto X Pure Edition",
+    "id": "99884",
+    "created_at": "2020-02-21 04:45:49"
+  },
+  {
+    "first_device_type": "Apple iPhone 7",
+    "id": "99772",
+    "created_at": "2020-02-21 04:58:29"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "91939",
+    "created_at": "2020-02-21 05:21:31"
+  },
+  {
+    "first_device_type": "Apple iPhone 5",
+    "id": "94234",
+    "created_at": "2020-02-21 06:06:27"
+  },
+  {
+    "first_device_type": "Samsung Galaxy S5",
+    "id": "99939",
+    "created_at": "2020-02-21 06:49:44"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "93970",
+    "created_at": "2020-02-21 08:28:30"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "98623",
+    "created_at": "2020-02-21 09:46:51"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "90980",
+    "created_at": "2020-02-21 11:45:23"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "10291",
+    "created_at": "2020-02-21 11:45:56"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "91966",
+    "created_at": "2020-02-21 12:04:15"
+  },
+  {
+    "first_device_type": "Apple iPhone 5c",
+    "id": "11433",
+    "created_at": "2020-02-21 15:32:07"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "92197",
+    "created_at": "2020-02-21 16:01:54"
+  },
+  {
+    "first_device_type": "Apple iPad Air 2",
+    "id": "91591",
+    "created_at": "2020-02-21 19:12:48"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "11705",
+    "created_at": "2020-02-21 21:31:32"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "92119",
+    "created_at": "2020-02-21 21:56:00"
+  },
+  {
+    "first_device_type": "Apple iPhone 5c",
+    "id": "94520",
+    "created_at": "2020-02-21 22:55:00"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "93594",
+    "created_at": "2020-02-21 22:57:17"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "10249",
+    "created_at": "2020-02-22 00:24:03"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "68954",
+    "created_at": "2020-02-22 00:50:34"
+  },
+  {
+    "first_device_type": "Apple iPhone 7 Plus",
+    "id": "92279",
+    "created_at": "2020-02-22 01:14:43"
+  },
+  {
+    "first_device_type": "Apple iPhone 5c",
+    "id": "10017",
+    "created_at": "2020-02-22 01:32:31"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s",
+    "id": "91012",
+    "created_at": "2020-02-22 03:47:23"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "11168",
+    "created_at": "2020-02-22 04:23:11"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s",
+    "id": "91626",
+    "created_at": "2020-02-22 04:27:59"
+  },
+  {
+    "first_device_type": "Apple iPad Air",
+    "id": "93980",
+    "created_at": "2020-02-22 04:40:11"
+  },
+  {
+    "first_device_type": "Apple iPod Touch 5G",
+    "id": "98538",
+    "created_at": "2020-02-22 10:08:34"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s",
+    "id": "96978",
+    "created_at": "2020-02-22 11:08:54"
+  },
+  {
+    "first_device_type": "Apple iPhone 5c",
+    "id": "10366",
+    "created_at": "2020-02-22 11:32:43"
+  },
+  {
+    "first_device_type": "Apple iPhone 5c",
+    "id": "91778",
+    "created_at": "2020-02-22 11:44:45"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "92148",
+    "created_at": "2020-02-22 12:04:34"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "92184",
+    "created_at": "2020-02-22 12:06:18"
+  },
+  {
+    "first_device_type": "Apple iPad Mini 2",
+    "id": "93586",
+    "created_at": "2020-02-22 12:38:09"
+  },
+  {
+    "first_device_type": "Apple iPhone 5",
+    "id": "11021",
+    "created_at": "2020-02-22 13:16:47"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "99967",
+    "created_at": "2020-02-22 14:32:59"
+  },
+  {
+    "first_device_type": "Samsung Galaxy Ace 4",
+    "id": "10632",
+    "created_at": "2020-02-22 15:21:46"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "96170",
+    "created_at": "2020-02-22 17:29:04"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s",
+    "id": "91270",
+    "created_at": "2020-02-22 17:54:58"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "14566",
+    "created_at": "2020-02-22 19:30:00"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "98373",
+    "created_at": "2020-02-22 19:30:09"
+  },
+  {
+    "first_device_type": "Apple iPhone 7 Plus",
+    "id": "91866",
+    "created_at": "2020-02-22 20:03:47"
+  },
+  {
+    "first_device_type": "Sony Xperia Z1",
+    "id": "10217",
+    "created_at": "2020-02-22 20:27:41"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "94345",
+    "created_at": "2020-02-22 20:32:17"
+  },
+  {
+    "first_device_type": "Apple iPhone 6 Plus",
+    "id": "10129",
+    "created_at": "2020-02-22 20:32:21"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "96570",
+    "created_at": "2020-02-22 22:48:54"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "97736",
+    "created_at": "2020-02-22 22:53:58"
+  },
+  {
+    "first_device_type": "Apple iPhone 7",
+    "id": "92069",
+    "created_at": "2020-02-22 23:24:28"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "93038",
+    "created_at": "2020-02-23 01:38:01"
+  },
+  {
+    "first_device_type": "Apple iPhone 5c",
+    "id": "10039",
+    "created_at": "2020-02-23 02:00:06"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "93926",
+    "created_at": "2020-02-23 02:24:00"
+  },
+  {
+    "first_device_type": "Apple iPhone 5c",
+    "id": "90900",
+    "created_at": "2020-02-23 02:44:13"
+  },
+  {
+    "first_device_type": "Apple iPhone 7 Plus",
+    "id": "10674",
+    "created_at": "2020-02-23 03:20:59"
+  },
+  {
+    "first_device_type": "Apple iPhone 5c",
+    "id": "92481",
+    "created_at": "2020-02-23 04:27:59"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "91814",
+    "created_at": "2020-02-23 05:26:12"
+  },
+  {
+    "first_device_type": "Apple iPhone 5c",
+    "id": "92961",
+    "created_at": "2020-02-23 06:10:29"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s",
+    "id": "91799",
+    "created_at": "2020-02-23 06:34:08"
+  },
+  {
+    "first_device_type": "Apple iPhone 7",
+    "id": "91777",
+    "created_at": "2020-02-23 06:36:39"
+  },
+  {
+    "first_device_type": "Apple iPhone 7",
+    "id": "93293",
+    "created_at": "2020-02-23 06:40:58"
+  },
+  {
+    "first_device_type": "Samsung Galaxy S4 Mini",
+    "id": "99781",
+    "created_at": "2020-02-23 06:54:33"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s",
+    "id": "99939",
+    "created_at": "2020-02-23 07:49:22"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "97299",
+    "created_at": "2020-02-23 10:35:35"
+  },
+  {
+    "first_device_type": "Apple iPhone 5c",
+    "id": "94490",
+    "created_at": "2020-02-23 11:52:59"
+  },
+  {
+    "first_device_type": "Apple iPhone 6 Plus",
+    "id": "92886",
+    "created_at": "2020-02-23 12:53:08"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "10115",
+    "created_at": "2020-02-23 13:00:08"
+  },
+  {
+    "first_device_type": "Apple iPhone 5c",
+    "id": "10552",
+    "created_at": "2020-02-23 13:10:09"
+  },
+  {
+    "first_device_type": "Apple iPhone 5c",
+    "id": "10177",
+    "created_at": "2020-02-23 13:29:17"
+  },
+  {
+    "first_device_type": "Apple iPhone 5",
+    "id": "91645",
+    "created_at": "2020-02-23 14:08:38"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "94435",
+    "created_at": "2020-02-23 14:21:32"
+  },
+  {
+    "first_device_type": "Apple iPhone 5",
+    "id": "91592",
+    "created_at": "2020-02-23 14:37:03"
+  },
+  {
+    "first_device_type": "Apple iPhone 6 Plus",
+    "id": "95087",
+    "created_at": "2020-02-23 15:02:17"
+  },
+  {
+    "first_device_type": "Apple iPhone 7",
+    "id": "96369",
+    "created_at": "2020-02-23 16:33:02"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s",
+    "id": "94129",
+    "created_at": "2020-02-23 16:44:30"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "92657",
+    "created_at": "2020-02-23 18:53:43"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "94198",
+    "created_at": "2020-02-23 18:59:59"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "11447",
+    "created_at": "2020-02-23 19:46:28"
+  },
+  {
+    "first_device_type": "Apple iPhone 4s",
+    "id": "91948",
+    "created_at": "2020-02-23 20:49:23"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "94381",
+    "created_at": "2020-02-23 21:34:53"
+  },
+  {
+    "first_device_type": "Apple iPhone 5c",
+    "id": "92606",
+    "created_at": "2020-02-23 21:37:16"
+  },
+  {
+    "first_device_type": "Apple iPad Mini 2",
+    "id": "94056",
+    "created_at": "2020-02-23 21:37:30"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "10064",
+    "created_at": "2020-02-23 21:50:33"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "94490",
+    "created_at": "2020-02-23 22:11:02"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "10044",
+    "created_at": "2020-02-23 22:25:36"
+  },
+  {
+    "first_device_type": "Samsung Galaxy S5",
+    "id": "99818",
+    "created_at": "2020-02-23 22:31:47"
+  },
+  {
+    "first_device_type": "Apple iPhone 6 Plus",
+    "id": "91255",
+    "created_at": "2020-02-23 22:36:30"
+  },
+  {
+    "first_device_type": "Apple iPhone 6 Plus",
+    "id": "93154",
+    "created_at": "2020-02-23 22:49:25"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "94070",
+    "created_at": "2020-02-23 23:20:07"
+  },
+  {
+    "first_device_type": "Apple iPad Mini 2",
+    "id": "91357",
+    "created_at": "2020-02-23 23:30:45"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "91698",
+    "created_at": "2020-02-23 23:56:16"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "96922",
+    "created_at": "2020-02-24 00:22:44"
+  },
+  {
+    "first_device_type": "Apple iPhone 5",
+    "id": "95207",
+    "created_at": "2020-02-24 00:24:31"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s",
+    "id": "90901",
+    "created_at": "2020-02-24 00:37:32"
+  },
+  {
+    "first_device_type": "Samsung Galaxy S5",
+    "id": "10014",
+    "created_at": "2020-02-24 00:54:01"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s Plus",
+    "id": "10175",
+    "created_at": "2020-02-24 01:08:11"
+  },
+  {
+    "first_device_type": "Apple iPhone 5",
+    "id": "10169",
+    "created_at": "2020-02-24 01:09:22"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "92053",
+    "created_at": "2020-02-24 02:10:15"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "92047",
+    "created_at": "2020-02-24 02:26:37"
+  },
+  {
+    "first_device_type": "Apple iPhone 7",
+    "id": "91161",
+    "created_at": "2020-02-24 02:53:27"
+  },
+  {
+    "first_device_type": "Samsung Galaxy S5",
+    "id": "10176",
+    "created_at": "2020-02-24 03:39:07"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "94857",
+    "created_at": "2020-02-24 04:00:55"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "91499",
+    "created_at": "2020-02-24 05:08:19"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "99447",
+    "created_at": "2020-02-24 05:34:19"
+  },
+  {
+    "first_device_type": "Sony Xperia XA",
+    "id": "99776",
+    "created_at": "2020-02-24 06:33:01"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "90743",
+    "created_at": "2020-02-24 06:56:35"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "92471",
+    "created_at": "2020-02-24 06:59:44"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "98759",
+    "created_at": "2020-02-24 06:59:53"
+  },
+  {
+    "first_device_type": "Apple iPhone 4s",
+    "id": "15113",
+    "created_at": "2020-02-24 07:40:09"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "91394",
+    "created_at": "2020-02-24 08:22:46"
+  },
+  {
+    "first_device_type": "Samsung Galaxy S6",
+    "id": "10050",
+    "created_at": "2020-02-24 10:25:55"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "93817",
+    "created_at": "2020-02-24 11:40:40"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "10648",
+    "created_at": "2020-02-24 11:46:56"
+  },
+  {
+    "first_device_type": "Apple iPhone 7",
+    "id": "92037",
+    "created_at": "2020-02-24 11:56:27"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "94315",
+    "created_at": "2020-02-24 12:40:20"
+  },
+  {
+    "first_device_type": "Apple iPad Mini 2",
+    "id": "91046",
+    "created_at": "2020-02-24 13:25:51"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "94527",
+    "created_at": "2020-02-24 15:26:55"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "91440",
+    "created_at": "2020-02-24 15:54:06"
+  },
+  {
+    "first_device_type": "Apple iPhone 5",
+    "id": "91387",
+    "created_at": "2020-02-24 17:10:23"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "92748",
+    "created_at": "2020-02-24 17:23:18"
+  },
+  {
+    "first_device_type": "Apple iPhone 6 Plus",
+    "id": "92561",
+    "created_at": "2020-02-24 17:29:25"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "96819",
+    "created_at": "2020-02-24 18:08:09"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "10277",
+    "created_at": "2020-02-24 18:19:20"
+  },
+  {
+    "first_device_type": "Google Pixel XL",
+    "id": "99941",
+    "created_at": "2020-02-24 18:19:43"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "11901",
+    "created_at": "2020-02-24 18:20:52"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "94507",
+    "created_at": "2020-02-24 18:51:27"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "93129",
+    "created_at": "2020-02-24 19:12:16"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "93913",
+    "created_at": "2020-02-24 19:20:06"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "93593",
+    "created_at": "2020-02-24 20:02:49"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "92754",
+    "created_at": "2020-02-24 20:28:09"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s",
+    "id": "99280",
+    "created_at": "2020-02-24 21:36:58"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "94484",
+    "created_at": "2020-02-24 21:38:04"
+  },
+  {
+    "first_device_type": "HTC One M8",
+    "id": "99893",
+    "created_at": "2020-02-24 21:50:25"
+  },
+  {
+    "first_device_type": "Apple iPhone 7",
+    "id": "92003",
+    "created_at": "2020-02-24 21:50:26"
+  },
+  {
+    "first_device_type": "Apple iPhone 7",
+    "id": "96535",
+    "created_at": "2020-02-24 21:51:49"
+  },
+  {
+    "first_device_type": "Samsung Galaxy Note 3",
+    "id": "10406",
+    "created_at": "2020-02-24 22:13:03"
+  },
+  {
+    "first_device_type": "Apple iPhone 5",
+    "id": "10319",
+    "created_at": "2020-02-24 22:44:06"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "91787",
+    "created_at": "2020-02-24 22:55:29"
+  },
+  {
+    "first_device_type": "Apple iPhone 6 Plus",
+    "id": "13723",
+    "created_at": "2020-02-24 22:55:44"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "95512",
+    "created_at": "2020-02-24 23:58:43"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "98725",
+    "created_at": "2020-02-25 00:00:00"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "90787",
+    "created_at": "2020-02-25 00:25:00"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "11613",
+    "created_at": "2020-02-25 01:14:22"
+  },
+  {
+    "first_device_type": "Apple iPhone 7 Plus",
+    "id": "91572",
+    "created_at": "2020-02-25 02:03:24"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "97713",
+    "created_at": "2020-02-25 02:23:36"
+  },
+  {
+    "first_device_type": "Apple iPhone 5",
+    "id": "96709",
+    "created_at": "2020-02-25 03:03:27"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "12718",
+    "created_at": "2020-02-25 03:08:27"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s",
+    "id": "98264",
+    "created_at": "2020-02-25 03:09:32"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s",
+    "id": "92754",
+    "created_at": "2020-02-25 03:38:35"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "10340",
+    "created_at": "2020-02-25 03:46:14"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s",
+    "id": "90772",
+    "created_at": "2020-02-25 03:55:13"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "10009",
+    "created_at": "2020-02-25 04:05:44"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s",
+    "id": "97425",
+    "created_at": "2020-02-25 04:34:57"
+  },
+  {
+    "first_device_type": "Samsung Galaxy S7 Edge",
+    "id": "12363",
+    "created_at": "2020-02-25 06:03:37"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "94995",
+    "created_at": "2020-02-25 06:31:12"
+  },
+  {
+    "first_device_type": "Apple iPhone 4s",
+    "id": "11063",
+    "created_at": "2020-02-25 06:44:37"
+  },
+  {
+    "first_device_type": "Apple iPhone 7 Plus",
+    "id": "10046",
+    "created_at": "2020-02-25 07:58:43"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s",
+    "id": "91943",
+    "created_at": "2020-02-25 08:20:08"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "12504",
+    "created_at": "2020-02-25 08:36:25"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "10713",
+    "created_at": "2020-02-25 08:53:17"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "93385",
+    "created_at": "2020-02-25 08:58:29"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "93536",
+    "created_at": "2020-02-25 09:40:28"
+  },
+  {
+    "first_device_type": "Apple iPhone 5",
+    "id": "93627",
+    "created_at": "2020-02-25 10:08:16"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "92000",
+    "created_at": "2020-02-25 10:23:20"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "91600",
+    "created_at": "2020-02-25 10:31:20"
+  },
+  {
+    "first_device_type": "Apple iPhone 5",
+    "id": "16473",
+    "created_at": "2020-02-25 11:26:49"
+  },
+  {
+    "first_device_type": "Apple iPhone 5",
+    "id": "91405",
+    "created_at": "2020-02-25 11:30:26"
+  },
+  {
+    "first_device_type": "Apple iPhone 5c",
+    "id": "92976",
+    "created_at": "2020-02-25 11:43:17"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "90823",
+    "created_at": "2020-02-25 12:41:43"
+  },
+  {
+    "first_device_type": "Apple iPhone 5",
+    "id": "10767",
+    "created_at": "2020-02-25 14:06:27"
+  },
+  {
+    "first_device_type": "Apple iPhone 6 Plus",
+    "id": "93808",
+    "created_at": "2020-02-25 14:17:46"
+  },
+  {
+    "first_device_type": "Sony Xperia Z1 Compact",
+    "id": "10038",
+    "created_at": "2020-02-25 14:46:30"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "98501",
+    "created_at": "2020-02-25 14:47:19"
+  },
+  {
+    "first_device_type": "Apple iPhone 5c",
+    "id": "96185",
+    "created_at": "2020-02-25 15:38:36"
+  },
+  {
+    "first_device_type": "LG G4",
+    "id": "99963",
+    "created_at": "2020-02-25 16:25:15"
+  },
+  {
+    "first_device_type": "Apple iPhone 5c",
+    "id": "91895",
+    "created_at": "2020-02-25 17:01:30"
+  },
+  {
+    "first_device_type": "Apple iPhone 6 Plus",
+    "id": "91090",
+    "created_at": "2020-02-25 17:02:12"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "94231",
+    "created_at": "2020-02-25 17:07:42"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "97221",
+    "created_at": "2020-02-25 17:29:30"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "10937",
+    "created_at": "2020-02-25 18:37:16"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "12216",
+    "created_at": "2020-02-25 18:58:01"
+  },
+  {
+    "first_device_type": "Motorola Moto X Pure Edition",
+    "id": "99790",
+    "created_at": "2020-02-25 18:58:59"
+  },
+  {
+    "first_device_type": "Apple iPad Mini",
+    "id": "11764",
+    "created_at": "2020-02-25 19:08:43"
+  },
+  {
+    "first_device_type": "Apple iPhone 5",
+    "id": "12417",
+    "created_at": "2020-02-25 20:26:19"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "95463",
+    "created_at": "2020-02-25 20:52:22"
+  },
+  {
+    "first_device_type": "Apple iPhone 5c",
+    "id": "91685",
+    "created_at": "2020-02-25 21:31:21"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "94475",
+    "created_at": "2020-02-25 21:53:38"
+  },
+  {
+    "first_device_type": "Samsung Galaxy S4",
+    "id": "14016",
+    "created_at": "2020-02-25 21:55:31"
+  },
+  {
+    "first_device_type": "Apple iPhone 7 Plus",
+    "id": "92237",
+    "created_at": "2020-02-25 22:01:29"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "10025",
+    "created_at": "2020-02-25 22:07:05"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "96157",
+    "created_at": "2020-02-25 22:17:19"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "91836",
+    "created_at": "2020-02-25 22:27:55"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s",
+    "id": "91007",
+    "created_at": "2020-02-25 22:30:48"
+  },
+  {
+    "first_device_type": "Apple iPhone 6 Plus",
+    "id": "91500",
+    "created_at": "2020-02-25 22:53:06"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "91424",
+    "created_at": "2020-02-25 22:56:53"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "91277",
+    "created_at": "2020-02-25 23:33:37"
+  },
+  {
+    "first_device_type": "Motorola Moto X",
+    "id": "99865",
+    "created_at": "2020-02-25 23:59:28"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "91504",
+    "created_at": "2020-02-26 00:47:24"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "93787",
+    "created_at": "2020-02-26 01:29:45"
+  },
+  {
+    "first_device_type": "Apple iPhone 5",
+    "id": "39383",
+    "created_at": "2020-02-26 01:30:28"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "90867",
+    "created_at": "2020-02-26 02:55:32"
+  },
+  {
+    "first_device_type": "Apple iPhone 5c",
+    "id": "90958",
+    "created_at": "2020-02-26 02:58:40"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "93306",
+    "created_at": "2020-02-26 03:06:49"
+  },
+  {
+    "first_device_type": "Apple iPhone 5",
+    "id": "91853",
+    "created_at": "2020-02-26 03:13:46"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "92919",
+    "created_at": "2020-02-26 04:05:34"
+  },
+  {
+    "first_device_type": "Apple iPhone 5c",
+    "id": "92866",
+    "created_at": "2020-02-26 04:35:44"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s",
+    "id": "10407",
+    "created_at": "2020-02-26 04:48:58"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "10395",
+    "created_at": "2020-02-26 05:25:43"
+  },
+  {
+    "first_device_type": "Apple iPhone 5c",
+    "id": "92069",
+    "created_at": "2020-02-26 05:31:41"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "92744",
+    "created_at": "2020-02-26 06:34:09"
+  },
+  {
+    "first_device_type": "Apple iPad 3",
+    "id": "10312",
+    "created_at": "2020-02-26 06:57:20"
+  },
+  {
+    "first_device_type": "Apple iPhone 7",
+    "id": "91608",
+    "created_at": "2020-02-26 08:37:08"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s",
+    "id": "94429",
+    "created_at": "2020-02-26 09:21:15"
+  },
+  {
+    "first_device_type": "Apple iPhone 5",
+    "id": "93741",
+    "created_at": "2020-02-26 10:10:19"
+  },
+  {
+    "first_device_type": "Apple iPhone 7 Plus",
+    "id": "11206",
+    "created_at": "2020-02-26 11:52:56"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "92047",
+    "created_at": "2020-02-26 12:20:59"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "91941",
+    "created_at": "2020-02-26 12:24:08"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "95298",
+    "created_at": "2020-02-26 12:25:34"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "93283",
+    "created_at": "2020-02-26 12:42:01"
+  },
+  {
+    "first_device_type": "Apple iPhone 6 Plus",
+    "id": "13259",
+    "created_at": "2020-02-26 12:48:49"
+  },
+  {
+    "first_device_type": "Apple iPhone 5c",
+    "id": "11207",
+    "created_at": "2020-02-26 12:52:05"
+  },
+  {
+    "first_device_type": "Apple iPhone 4s",
+    "id": "91971",
+    "created_at": "2020-02-26 13:00:42"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s",
+    "id": "90932",
+    "created_at": "2020-02-26 13:15:36"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s",
+    "id": "91206",
+    "created_at": "2020-02-26 13:45:56"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "91943",
+    "created_at": "2020-02-26 13:59:51"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "13608",
+    "created_at": "2020-02-26 14:31:03"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "12526",
+    "created_at": "2020-02-26 14:51:04"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "91495",
+    "created_at": "2020-02-26 15:44:17"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "92895",
+    "created_at": "2020-02-26 15:47:30"
+  },
+  {
+    "first_device_type": "Apple iPhone 5",
+    "id": "92621",
+    "created_at": "2020-02-26 15:51:22"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "96234",
+    "created_at": "2020-02-26 16:28:06"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "99647",
+    "created_at": "2020-02-26 17:24:30"
+  },
+  {
+    "first_device_type": "LG G5",
+    "id": "99930",
+    "created_at": "2020-02-26 17:29:24"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "10076",
+    "created_at": "2020-02-26 17:37:57"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s",
+    "id": "97770",
+    "created_at": "2020-02-26 18:20:24"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "93378",
+    "created_at": "2020-02-26 18:37:46"
+  },
+  {
+    "first_device_type": "Apple iPad 2",
+    "id": "93096",
+    "created_at": "2020-02-26 18:44:47"
+  },
+  {
+    "first_device_type": "Samsung Galaxy Tab A",
+    "id": "10025",
+    "created_at": "2020-02-26 18:44:51"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "91697",
+    "created_at": "2020-02-26 19:07:59"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s",
+    "id": "93131",
+    "created_at": "2020-02-26 20:35:12"
+  },
+  {
+    "first_device_type": "Google Nexus 6P",
+    "id": "94610",
+    "created_at": "2020-02-26 21:23:10"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "91199",
+    "created_at": "2020-02-26 22:13:22"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "91375",
+    "created_at": "2020-02-26 22:40:39"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "91807",
+    "created_at": "2020-02-26 22:46:20"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "91803",
+    "created_at": "2020-02-26 23:02:13"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "98217",
+    "created_at": "2020-02-26 23:15:09"
+  },
+  {
+    "first_device_type": "Apple iPhone 5",
+    "id": "91608",
+    "created_at": "2020-02-26 23:50:20"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "96720",
+    "created_at": "2020-02-26 23:53:38"
+  },
+  {
+    "first_device_type": "Samsung Galaxy S4",
+    "id": "10192",
+    "created_at": "2020-02-27 01:25:56"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "95765",
+    "created_at": "2020-02-27 01:37:37"
+  },
+  {
+    "first_device_type": "Apple iPhone 5c",
+    "id": "94850",
+    "created_at": "2020-02-27 02:06:45"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "90804",
+    "created_at": "2020-02-27 02:16:00"
+  },
+  {
+    "first_device_type": "Apple iPhone 7",
+    "id": "10371",
+    "created_at": "2020-02-27 03:31:17"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "10841",
+    "created_at": "2020-02-27 04:31:22"
+  },
+  {
+    "first_device_type": "Google Pixel",
+    "id": "11647",
+    "created_at": "2020-02-27 04:59:59"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "95039",
+    "created_at": "2020-02-27 05:31:20"
+  },
+  {
+    "first_device_type": "Apple iPhone 5c",
+    "id": "91434",
+    "created_at": "2020-02-27 05:45:31"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "92490",
+    "created_at": "2020-02-27 07:27:47"
+  },
+  {
+    "first_device_type": "Apple iPhone 7",
+    "id": "93563",
+    "created_at": "2020-02-27 07:57:39"
+  },
+  {
+    "first_device_type": "Apple iPhone 5c",
+    "id": "10361",
+    "created_at": "2020-02-27 08:10:18"
+  },
+  {
+    "first_device_type": "Sony Xperia Z5 Compact",
+    "id": "10033",
+    "created_at": "2020-02-27 08:24:34"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "95145",
+    "created_at": "2020-02-27 08:31:11"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "92214",
+    "created_at": "2020-02-27 08:35:28"
+  },
+  {
+    "first_device_type": "Huawei Ascend P7",
+    "id": "10125",
+    "created_at": "2020-02-27 10:36:34"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "91545",
+    "created_at": "2020-02-27 10:39:02"
+  },
+  {
+    "first_device_type": "Apple iPhone 7 Plus",
+    "id": "93005",
+    "created_at": "2020-02-27 10:53:51"
+  },
+  {
+    "first_device_type": "Apple iPhone 5",
+    "id": "94222",
+    "created_at": "2020-02-27 11:06:34"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s",
+    "id": "95211",
+    "created_at": "2020-02-27 11:13:31"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "93714",
+    "created_at": "2020-02-27 12:25:48"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "91259",
+    "created_at": "2020-02-27 12:48:36"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "90864",
+    "created_at": "2020-02-27 12:59:54"
+  },
+  {
+    "first_device_type": "Apple iPhone 7",
+    "id": "90963",
+    "created_at": "2020-02-27 13:10:58"
+  },
+  {
+    "first_device_type": "Sony Xperia Z3",
+    "id": "10031",
+    "created_at": "2020-02-27 13:23:39"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "92026",
+    "created_at": "2020-02-27 13:56:49"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s",
+    "id": "91928",
+    "created_at": "2020-02-27 14:03:28"
+  },
+  {
+    "first_device_type": "Apple iPhone 5",
+    "id": "94000",
+    "created_at": "2020-02-27 14:05:22"
+  },
+  {
+    "first_device_type": "Apple iPhone 6 Plus",
+    "id": "94318",
+    "created_at": "2020-02-27 14:09:09"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "95229",
+    "created_at": "2020-02-27 14:34:12"
+  },
+  {
+    "first_device_type": "HTC One M8",
+    "id": "11738",
+    "created_at": "2020-02-27 15:14:27"
+  },
+  {
+    "first_device_type": "Motorola Moto G Dual",
+    "id": "10000",
+    "created_at": "2020-02-27 15:18:39"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "94227",
+    "created_at": "2020-02-27 15:23:55"
+  },
+  {
+    "first_device_type": "Apple iPhone 5",
+    "id": "10504",
+    "created_at": "2020-02-27 15:23:58"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "91548",
+    "created_at": "2020-02-27 15:28:06"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "95528",
+    "created_at": "2020-02-27 15:29:02"
+  },
+  {
+    "first_device_type": "Apple iPhone 6 Plus",
+    "id": "15915",
+    "created_at": "2020-02-27 15:43:49"
+  },
+  {
+    "first_device_type": "Motorola Moto G",
+    "id": "99913",
+    "created_at": "2020-02-27 15:59:45"
+  },
+  {
+    "first_device_type": "Apple iPhone 5",
+    "id": "95084",
+    "created_at": "2020-02-27 16:20:23"
+  },
+  {
+    "first_device_type": "Apple iPad Mini 2",
+    "id": "10818",
+    "created_at": "2020-02-27 16:25:32"
+  },
+  {
+    "first_device_type": "Apple iPhone 6 Plus",
+    "id": "92854",
+    "created_at": "2020-02-27 16:28:42"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s",
+    "id": "92048",
+    "created_at": "2020-02-27 16:29:07"
+  },
+  {
+    "first_device_type": "Samsung Galaxy J5",
+    "id": "10275",
+    "created_at": "2020-02-27 17:09:21"
+  },
+  {
+    "first_device_type": "Samsung Galaxy S4",
+    "id": "10005",
+    "created_at": "2020-02-27 17:14:43"
+  },
+  {
+    "first_device_type": "Samsung Galaxy A3",
+    "id": "12729",
+    "created_at": "2020-02-27 17:23:23"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "97348",
+    "created_at": "2020-02-27 17:34:55"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "91436",
+    "created_at": "2020-02-27 17:48:49"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "93805",
+    "created_at": "2020-02-27 18:24:03"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "10250",
+    "created_at": "2020-02-27 18:39:57"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "94009",
+    "created_at": "2020-02-27 18:41:37"
+  },
+  {
+    "first_device_type": "Apple iPhone 5c",
+    "id": "95630",
+    "created_at": "2020-02-27 19:10:42"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "10337",
+    "created_at": "2020-02-27 19:13:46"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "11011",
+    "created_at": "2020-02-27 19:40:40"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "96535",
+    "created_at": "2020-02-27 20:30:14"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "99835",
+    "created_at": "2020-02-27 20:46:52"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "92653",
+    "created_at": "2020-02-27 20:50:15"
+  },
+  {
+    "first_device_type": "Apple iPhone 5",
+    "id": "91758",
+    "created_at": "2020-02-27 21:30:20"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "92147",
+    "created_at": "2020-02-27 21:35:18"
+  },
+  {
+    "first_device_type": "Apple iPad 2",
+    "id": "13849",
+    "created_at": "2020-02-27 21:50:02"
+  },
+  {
+    "first_device_type": "Samsung Galaxy S III",
+    "id": "99611",
+    "created_at": "2020-02-27 22:21:34"
+  },
+  {
+    "first_device_type": "Apple iPhone 7",
+    "id": "90982",
+    "created_at": "2020-02-27 23:28:50"
+  },
+  {
+    "first_device_type": "Apple iPhone 5c",
+    "id": "14971",
+    "created_at": "2020-02-27 23:55:18"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "93544",
+    "created_at": "2020-02-28 00:06:03"
+  },
+  {
+    "first_device_type": "Apple iPhone 7",
+    "id": "95284",
+    "created_at": "2020-02-28 00:10:22"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "16224",
+    "created_at": "2020-02-28 00:14:24"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "94852",
+    "created_at": "2020-02-28 00:16:33"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s",
+    "id": "94578",
+    "created_at": "2020-02-28 00:21:58"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "96981",
+    "created_at": "2020-02-28 00:22:44"
+  },
+  {
+    "first_device_type": "Apple iPhone 7",
+    "id": "91429",
+    "created_at": "2020-02-28 00:45:55"
+  },
+  {
+    "first_device_type": "Apple iPad Mini",
+    "id": "91548",
+    "created_at": "2020-02-28 00:58:18"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "92536",
+    "created_at": "2020-02-28 01:05:31"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "93002",
+    "created_at": "2020-02-28 01:10:10"
+  },
+  {
+    "first_device_type": "Google Nexus 5",
+    "id": "10018",
+    "created_at": "2020-02-28 01:27:39"
+  },
+  {
+    "first_device_type": "OnePlus One",
+    "id": "10016",
+    "created_at": "2020-02-28 01:46:54"
+  },
+  {
+    "first_device_type": "Apple iPad 2",
+    "id": "95135",
+    "created_at": "2020-02-28 01:48:27"
+  },
+  {
+    "first_device_type": "Apple iPad 3",
+    "id": "91024",
+    "created_at": "2020-02-28 01:59:11"
+  },
+  {
+    "first_device_type": "Google Nexus 5",
+    "id": "10579",
+    "created_at": "2020-02-28 02:00:27"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "99234",
+    "created_at": "2020-02-28 02:23:22"
+  },
+  {
+    "first_device_type": "Apple iPhone 7",
+    "id": "11732",
+    "created_at": "2020-02-28 03:23:42"
+  },
+  {
+    "first_device_type": "Apple iPhone 5",
+    "id": "90869",
+    "created_at": "2020-02-28 03:27:27"
+  },
+  {
+    "first_device_type": "Apple iPhone 6 Plus",
+    "id": "96415",
+    "created_at": "2020-02-28 03:46:33"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "99759",
+    "created_at": "2020-02-28 04:00:57"
+  },
+  {
+    "first_device_type": "Apple iPad Mini",
+    "id": "14485",
+    "created_at": "2020-02-28 04:34:03"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "15308",
+    "created_at": "2020-02-28 04:47:04"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "91701",
+    "created_at": "2020-02-28 04:58:40"
+  },
+  {
+    "first_device_type": "Samsung Galaxy S7",
+    "id": "10014",
+    "created_at": "2020-02-28 05:15:08"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "93324",
+    "created_at": "2020-02-28 05:33:24"
+  },
+  {
+    "first_device_type": "Apple iPod Touch 5G",
+    "id": "91797",
+    "created_at": "2020-02-28 05:34:53"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "91255",
+    "created_at": "2020-02-28 05:44:51"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "91816",
+    "created_at": "2020-02-28 05:57:25"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "10993",
+    "created_at": "2020-02-28 06:03:44"
+  },
+  {
+    "first_device_type": "Apple iPhone 5c",
+    "id": "94070",
+    "created_at": "2020-02-28 06:40:47"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "92566",
+    "created_at": "2020-02-28 07:14:32"
+  },
+  {
+    "first_device_type": "Apple iPad Mini",
+    "id": "11409",
+    "created_at": "2020-02-28 08:34:35"
+  },
+  {
+    "first_device_type": "Apple iPhone 6 Plus",
+    "id": "15253",
+    "created_at": "2020-02-28 08:42:42"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "11160",
+    "created_at": "2020-02-28 09:11:36"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "91014",
+    "created_at": "2020-02-28 09:18:44"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "91118",
+    "created_at": "2020-02-28 09:52:02"
+  },
+  {
+    "first_device_type": "Apple iPhone 7",
+    "id": "93963",
+    "created_at": "2020-02-28 10:07:33"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "95512",
+    "created_at": "2020-02-28 10:12:23"
+  },
+  {
+    "first_device_type": "Apple iPod Touch 5G",
+    "id": "97363",
+    "created_at": "2020-02-28 10:16:18"
+  },
+  {
+    "first_device_type": "HTC One",
+    "id": "10323",
+    "created_at": "2020-02-28 10:36:17"
+  },
+  {
+    "first_device_type": "Apple iPhone 7",
+    "id": "92083",
+    "created_at": "2020-02-28 11:00:12"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "90700",
+    "created_at": "2020-02-28 11:26:37"
+  },
+  {
+    "first_device_type": "Apple iPhone 7 Plus",
+    "id": "91016",
+    "created_at": "2020-02-28 11:37:42"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "91901",
+    "created_at": "2020-02-28 11:38:00"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "95228",
+    "created_at": "2020-02-28 12:03:40"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s",
+    "id": "91933",
+    "created_at": "2020-02-28 12:11:21"
+  },
+  {
+    "first_device_type": "Apple iPhone 7",
+    "id": "92086",
+    "created_at": "2020-02-28 12:28:21"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "95235",
+    "created_at": "2020-02-28 12:38:20"
+  },
+  {
+    "first_device_type": "Apple iPhone 5",
+    "id": "90835",
+    "created_at": "2020-02-28 12:50:21"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s",
+    "id": "91394",
+    "created_at": "2020-02-28 13:15:05"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "99245",
+    "created_at": "2020-02-28 13:18:16"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "92609",
+    "created_at": "2020-02-28 13:21:00"
+  },
+  {
+    "first_device_type": "Apple iPhone 5c",
+    "id": "91384",
+    "created_at": "2020-02-28 13:38:21"
+  },
+  {
+    "first_device_type": "Apple iPhone 5c",
+    "id": "93551",
+    "created_at": "2020-02-28 14:01:11"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s",
+    "id": "94101",
+    "created_at": "2020-02-28 14:05:24"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "97019",
+    "created_at": "2020-02-28 14:06:39"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "94784",
+    "created_at": "2020-02-28 14:09:26"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "93365",
+    "created_at": "2020-02-28 14:10:33"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "91080",
+    "created_at": "2020-02-28 14:23:58"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s",
+    "id": "94379",
+    "created_at": "2020-02-28 14:30:15"
+  },
+  {
+    "first_device_type": "Oppo Find 9",
+    "id": "94045",
+    "created_at": "2020-02-28 14:59:01"
+  },
+  {
+    "first_device_type": "Samsung Galaxy Alpha",
+    "id": "10007",
+    "created_at": "2020-02-28 15:00:52"
+  },
+  {
+    "first_device_type": "Motorola Moto X",
+    "id": "13623",
+    "created_at": "2020-02-28 15:26:07"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "99544",
+    "created_at": "2020-02-28 15:32:17"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "91011",
+    "created_at": "2020-02-28 15:34:06"
+  },
+  {
+    "first_device_type": "Apple iPhone 7",
+    "id": "93082",
+    "created_at": "2020-02-28 15:35:47"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "91132",
+    "created_at": "2020-02-28 15:40:46"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "12629",
+    "created_at": "2020-02-28 15:47:16"
+  },
+  {
+    "first_device_type": "Apple iPhone 5c",
+    "id": "95699",
+    "created_at": "2020-02-28 15:51:40"
+  },
+  {
+    "first_device_type": "Apple iPhone 4s",
+    "id": "94108",
+    "created_at": "2020-02-28 15:56:09"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "98394",
+    "created_at": "2020-02-28 16:01:26"
+  },
+  {
+    "first_device_type": "Apple iPhone 5",
+    "id": "93556",
+    "created_at": "2020-02-28 16:06:17"
+  },
+  {
+    "first_device_type": "Apple iPhone 5c",
+    "id": "91496",
+    "created_at": "2020-02-28 16:12:04"
+  },
+  {
+    "first_device_type": "Apple iPhone 4s",
+    "id": "12336",
+    "created_at": "2020-02-28 16:21:08"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "93101",
+    "created_at": "2020-02-28 16:21:08"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "90780",
+    "created_at": "2020-02-28 16:46:20"
+  },
+  {
+    "first_device_type": "Samsung Galaxy Note 4",
+    "id": "10141",
+    "created_at": "2020-02-28 17:09:13"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "95000",
+    "created_at": "2020-02-28 17:18:55"
+  },
+  {
+    "first_device_type": "Apple iPhone 7 Plus",
+    "id": "92219",
+    "created_at": "2020-02-28 17:23:49"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "91214",
+    "created_at": "2020-02-28 17:35:30"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "91470",
+    "created_at": "2020-02-28 18:02:23"
+  },
+  {
+    "first_device_type": "Samsung Galaxy S7 Edge",
+    "id": "99890",
+    "created_at": "2020-02-28 18:19:37"
+  },
+  {
+    "first_device_type": "Apple iPhone 5",
+    "id": "93692",
+    "created_at": "2020-02-28 18:24:59"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "92875",
+    "created_at": "2020-02-28 18:26:44"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "91933",
+    "created_at": "2020-02-28 18:30:20"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "91664",
+    "created_at": "2020-02-28 18:33:24"
+  },
+  {
+    "first_device_type": "Apple iPhone 7",
+    "id": "99913",
+    "created_at": "2020-02-28 18:39:32"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s",
+    "id": "91969",
+    "created_at": "2020-02-28 18:43:24"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "95510",
+    "created_at": "2020-02-28 18:45:26"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s",
+    "id": "95391",
+    "created_at": "2020-02-28 19:05:00"
+  },
+  {
+    "first_device_type": "Apple iPad Pro",
+    "id": "10115",
+    "created_at": "2020-02-28 19:11:37"
+  },
+  {
+    "first_device_type": "Apple iPhone 7 Plus",
+    "id": "92130",
+    "created_at": "2020-02-28 19:18:16"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s",
+    "id": "92161",
+    "created_at": "2020-02-28 19:45:33"
+  },
+  {
+    "first_device_type": "Apple iPhone 5",
+    "id": "32555",
+    "created_at": "2020-02-28 19:52:27"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "93420",
+    "created_at": "2020-02-28 19:52:50"
+  },
+  {
+    "first_device_type": "Apple iPhone 5",
+    "id": "93574",
+    "created_at": "2020-02-28 20:37:14"
+  },
+  {
+    "first_device_type": "Apple iPhone 5c",
+    "id": "91846",
+    "created_at": "2020-02-28 21:02:18"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "96031",
+    "created_at": "2020-02-28 21:16:20"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "10948",
+    "created_at": "2020-02-28 21:23:33"
+  },
+  {
+    "first_device_type": "Apple iPhone 5",
+    "id": "92501",
+    "created_at": "2020-02-28 21:28:17"
+  },
+  {
+    "first_device_type": "Samsung Galaxy S4 Mini",
+    "id": "99833",
+    "created_at": "2020-02-28 21:42:38"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "94941",
+    "created_at": "2020-02-28 21:47:08"
+  },
+  {
+    "first_device_type": "Samsung Galaxy S6 Edge",
+    "id": "10694",
+    "created_at": "2020-02-28 21:50:38"
+  },
+  {
+    "first_device_type": "Apple iPhone 7",
+    "id": "93039",
+    "created_at": "2020-02-28 22:36:22"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "91601",
+    "created_at": "2020-02-28 22:43:13"
+  },
+  {
+    "first_device_type": "Apple iPhone 5",
+    "id": "91050",
+    "created_at": "2020-02-28 22:47:48"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "91902",
+    "created_at": "2020-02-28 22:53:22"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "98177",
+    "created_at": "2020-02-28 22:54:46"
+  },
+  {
+    "first_device_type": "Sony Xperia Z3 Compact",
+    "id": "10029",
+    "created_at": "2020-02-28 23:00:59"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "91470",
+    "created_at": "2020-02-28 23:04:25"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s",
+    "id": "93239",
+    "created_at": "2020-02-28 23:25:19"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "92171",
+    "created_at": "2020-02-28 23:35:50"
+  },
+  {
+    "first_device_type": "OnePlus 2",
+    "id": "10281",
+    "created_at": "2020-02-28 23:59:20"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s",
+    "id": "92049",
+    "created_at": "2020-03-01 00:01:35"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "97118",
+    "created_at": "2020-03-01 00:40:44"
+  },
+  {
+    "first_device_type": "Samsung Galaxy J3",
+    "id": "96333",
+    "created_at": "2020-03-01 00:42:15"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s Plus",
+    "id": "91836",
+    "created_at": "2020-03-01 00:52:57"
+  },
+  {
+    "first_device_type": "Apple iPhone 7 Plus",
+    "id": "11003",
+    "created_at": "2020-03-01 00:53:52"
+  },
+  {
+    "first_device_type": "Samsung Galaxy S4",
+    "id": "10169",
+    "created_at": "2020-03-01 01:02:02"
+  },
+  {
+    "first_device_type": "Apple iPhone 6 Plus",
+    "id": "92358",
+    "created_at": "2020-03-01 01:12:46"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "91963",
+    "created_at": "2020-03-01 01:32:30"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "92153",
+    "created_at": "2020-03-01 01:44:54"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "14835",
+    "created_at": "2020-03-01 02:00:24"
+  },
+  {
+    "first_device_type": "Apple iPhone 5c",
+    "id": "99664",
+    "created_at": "2020-03-01 02:02:12"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "96156",
+    "created_at": "2020-03-01 02:15:35"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "92083",
+    "created_at": "2020-03-01 02:30:00"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "95715",
+    "created_at": "2020-03-01 02:33:38"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "95482",
+    "created_at": "2020-03-01 02:52:53"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s",
+    "id": "96941",
+    "created_at": "2020-03-01 02:54:47"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "93478",
+    "created_at": "2020-03-01 03:12:19"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s",
+    "id": "90960",
+    "created_at": "2020-03-01 03:32:23"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "95551",
+    "created_at": "2020-03-01 03:42:08"
+  },
+  {
+    "first_device_type": "Apple iPhone 7",
+    "id": "12735",
+    "created_at": "2020-03-01 04:19:54"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "92124",
+    "created_at": "2020-03-01 04:25:52"
+  },
+  {
+    "first_device_type": "Apple iPhone 5c",
+    "id": "96119",
+    "created_at": "2020-03-01 04:30:36"
+  },
+  {
+    "first_device_type": "Apple iPhone 6 Plus",
+    "id": "12117",
+    "created_at": "2020-03-01 05:13:31"
+  },
+  {
+    "first_device_type": "Apple iPhone 5c",
+    "id": "15940",
+    "created_at": "2020-03-01 05:24:17"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "92502",
+    "created_at": "2020-03-01 05:28:37"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "91488",
+    "created_at": "2020-03-01 05:31:02"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "94170",
+    "created_at": "2020-03-01 05:42:00"
+  },
+  {
+    "first_device_type": "Apple iPhone 5c",
+    "id": "91588",
+    "created_at": "2020-03-01 05:48:15"
+  },
+  {
+    "first_device_type": "Sony Xperia Z1",
+    "id": "99869",
+    "created_at": "2020-03-01 05:53:52"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s",
+    "id": "14378",
+    "created_at": "2020-03-01 06:24:02"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s",
+    "id": "92143",
+    "created_at": "2020-03-01 06:31:33"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s",
+    "id": "93374",
+    "created_at": "2020-03-01 06:58:36"
+  },
+  {
+    "first_device_type": "Apple iPhone 7",
+    "id": "92400",
+    "created_at": "2020-03-01 07:23:23"
+  },
+  {
+    "first_device_type": "Apple iPhone 7",
+    "id": "92518",
+    "created_at": "2020-03-01 07:26:13"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "91838",
+    "created_at": "2020-03-01 08:00:46"
+  },
+  {
+    "first_device_type": "Apple iPhone 5",
+    "id": "96443",
+    "created_at": "2020-03-01 08:06:23"
+  },
+  {
+    "first_device_type": "Apple iPhone 7 Plus",
+    "id": "91549",
+    "created_at": "2020-03-01 08:23:02"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "91420",
+    "created_at": "2020-03-01 08:48:59"
+  },
+  {
+    "first_device_type": "Apple iPhone 5",
+    "id": "10026",
+    "created_at": "2020-03-01 08:55:17"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "95997",
+    "created_at": "2020-03-01 09:04:57"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "90862",
+    "created_at": "2020-03-01 09:11:11"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "97950",
+    "created_at": "2020-03-01 09:18:28"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "10082",
+    "created_at": "2020-03-01 09:25:26"
+  },
+  {
+    "first_device_type": "Apple iPhone 7",
+    "id": "10269",
+    "created_at": "2020-03-01 09:30:01"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "12276",
+    "created_at": "2020-03-01 09:50:37"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s",
+    "id": "93907",
+    "created_at": "2020-03-01 09:57:20"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "95330",
+    "created_at": "2020-03-01 10:09:37"
+  },
+  {
+    "first_device_type": "Google Nexus 5",
+    "id": "99799",
+    "created_at": "2020-03-01 10:20:21"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "99799",
+    "created_at": "2021-03-01 10:30:26"
+  },
+  {
+    "first_device_type": "Apple iPhone 5",
+    "id": "96196",
+    "created_at": "2020-03-01 10:32:57"
+  },
+  {
+    "first_device_type": "Apple iPhone 5c",
+    "id": "96022",
+    "created_at": "2020-03-01 10:40:20"
+  },
+  {
+    "first_device_type": "Apple iPhone 5c",
+    "id": "96186",
+    "created_at": "2020-03-01 10:56:38"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "96939",
+    "created_at": "2020-03-01 11:04:16"
+  },
+  {
+    "first_device_type": "Apple iPhone 4s",
+    "id": "93234",
+    "created_at": "2020-03-01 11:15:05"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s",
+    "id": "90826",
+    "created_at": "2020-03-01 11:19:49"
+  },
+  {
+    "first_device_type": "Samsung Galaxy S7",
+    "id": "10033",
+    "created_at": "2020-03-01 11:24:06"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "93577",
+    "created_at": "2020-03-01 11:32:16"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "11809",
+    "created_at": "2020-03-01 11:43:18"
+  },
+  {
+    "first_device_type": "Apple iPhone 4s",
+    "id": "12806",
+    "created_at": "2020-03-01 11:43:47"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s",
+    "id": "12806",
+    "created_at": "2020-08-01 11:59:10"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "96171",
+    "created_at": "2020-03-01 12:14:26"
+  },
+  {
+    "first_device_type": "Apple iPhone 4s",
+    "id": "94643",
+    "created_at": "2020-03-01 12:38:56"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "11366",
+    "created_at": "2020-03-01 12:45:01"
+  },
+  {
+    "first_device_type": "Apple iPhone 5",
+    "id": "95871",
+    "created_at": "2020-03-01 12:58:46"
+  },
+  {
+    "first_device_type": "Apple iPad 2",
+    "id": "12482",
+    "created_at": "2020-03-01 13:07:09"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "91034",
+    "created_at": "2020-03-01 13:11:34"
+  },
+  {
+    "first_device_type": "Apple iPhone 7",
+    "id": "91034",
+    "created_at": "2021-03-01 13:33:43"
+  },
+  {
+    "first_device_type": "Google Nexus 5",
+    "id": "10301",
+    "created_at": "2020-03-01 13:41:23"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "11419",
+    "created_at": "2020-03-01 13:55:31"
+  },
+  {
+    "first_device_type": "Apple iPhone 5",
+    "id": "91170",
+    "created_at": "2020-03-01 13:59:04"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "14577",
+    "created_at": "2020-03-01 14:05:27"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "92020",
+    "created_at": "2020-03-01 14:07:40"
+  },
+  {
+    "first_device_type": "Apple iPhone 7",
+    "id": "15072",
+    "created_at": "2020-03-01 14:14:51"
+  },
+  {
+    "first_device_type": "Samsung Galaxy S5",
+    "id": "10100",
+    "created_at": "2020-03-01 14:32:45"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s",
+    "id": "11309",
+    "created_at": "2020-03-01 14:33:41"
+  },
+  {
+    "first_device_type": "Apple iPhone 6 Plus",
+    "id": "92727",
+    "created_at": "2020-03-01 14:35:04"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "97256",
+    "created_at": "2020-03-01 14:38:19"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "90904",
+    "created_at": "2020-03-01 14:43:57"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "94714",
+    "created_at": "2020-03-01 14:54:46"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "97612",
+    "created_at": "2020-03-01 15:15:46"
+  },
+  {
+    "first_device_type": "Apple iPhone 5c",
+    "id": "91281",
+    "created_at": "2020-03-01 15:31:41"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s",
+    "id": "95844",
+    "created_at": "2020-03-01 15:38:30"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "10814",
+    "created_at": "2020-03-01 15:38:59"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s Plus",
+    "id": "91917",
+    "created_at": "2020-03-01 15:39:36"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "92325",
+    "created_at": "2020-03-01 15:54:52"
+  },
+  {
+    "first_device_type": "Apple iPhone 5c",
+    "id": "91628",
+    "created_at": "2020-03-01 15:55:57"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "91867",
+    "created_at": "2020-03-01 16:07:28"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "91498",
+    "created_at": "2020-03-01 16:11:59"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "13852",
+    "created_at": "2020-03-01 16:22:17"
+  },
+  {
+    "first_device_type": "Apple iPhone 7 Plus",
+    "id": "92508",
+    "created_at": "2020-03-01 16:26:29"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "91876",
+    "created_at": "2020-03-01 16:32:48"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "94749",
+    "created_at": "2020-03-01 16:34:38"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "92836",
+    "created_at": "2020-03-01 16:35:25"
+  },
+  {
+    "first_device_type": "Apple iPhone 5c",
+    "id": "91128",
+    "created_at": "2020-03-01 16:39:40"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "96450",
+    "created_at": "2020-03-01 16:41:08"
+  },
+  {
+    "first_device_type": "ASUS ZenFone 2",
+    "id": "10003",
+    "created_at": "2020-03-01 16:44:54"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "96002",
+    "created_at": "2020-03-01 16:46:15"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "92051",
+    "created_at": "2020-03-01 16:51:05"
+  },
+  {
+    "first_device_type": "OnePlus One",
+    "id": "99781",
+    "created_at": "2020-03-01 16:58:52"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s",
+    "id": "90816",
+    "created_at": "2020-03-01 17:19:24"
+  },
+  {
+    "first_device_type": "Samsung Galaxy S5",
+    "id": "99913",
+    "created_at": "2020-03-01 17:20:17"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "90925",
+    "created_at": "2020-03-01 17:24:32"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "92441",
+    "created_at": "2020-03-01 17:38:36"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "90869",
+    "created_at": "2020-03-01 17:46:23"
+  },
+  {
+    "first_device_type": "Apple iPhone 7 Plus",
+    "id": "91211",
+    "created_at": "2020-03-01 17:48:00"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "93214",
+    "created_at": "2020-03-01 18:01:50"
+  },
+  {
+    "first_device_type": "Samsung Galaxy Alpha 4G",
+    "id": "12773",
+    "created_at": "2020-03-01 18:05:57"
+  },
+  {
+    "first_device_type": "Apple iPhone 4s",
+    "id": "12518",
+    "created_at": "2020-03-01 18:15:48"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "92435",
+    "created_at": "2020-03-01 18:24:14"
+  },
+  {
+    "first_device_type": "Samsung Galaxy S5 NEO",
+    "id": "10025",
+    "created_at": "2020-03-01 18:24:53"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "91531",
+    "created_at": "2020-03-01 18:25:29"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "95302",
+    "created_at": "2020-03-01 18:26:10"
+  },
+  {
+    "first_device_type": "Apple iPhone 7",
+    "id": "92119",
+    "created_at": "2020-03-01 18:29:34"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "92959",
+    "created_at": "2020-03-01 18:33:49"
+  },
+  {
+    "first_device_type": "Apple iPhone 7",
+    "id": "12977",
+    "created_at": "2020-03-01 18:52:17"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "19088",
+    "created_at": "2020-03-01 19:08:07"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "91570",
+    "created_at": "2020-03-01 19:08:14"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "97712",
+    "created_at": "2020-03-01 19:15:22"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "97211",
+    "created_at": "2020-03-01 19:15:28"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "94927",
+    "created_at": "2020-03-01 19:19:30"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "13071",
+    "created_at": "2020-03-01 19:30:09"
+  },
+  {
+    "first_device_type": "Apple iPhone 5c",
+    "id": "91507",
+    "created_at": "2020-03-01 19:30:19"
+  },
+  {
+    "first_device_type": "Huawei P9 Lite",
+    "id": "10000",
+    "created_at": "2020-03-01 19:33:13"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "93354",
+    "created_at": "2020-03-01 19:40:45"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "97289",
+    "created_at": "2020-03-01 19:46:41"
+  },
+  {
+    "first_device_type": "Samsung Galaxy S7",
+    "id": "99892",
+    "created_at": "2020-02-03 22:15:25"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s",
+    "id": "93248",
+    "created_at": "2020-02-07 12:56:46"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "92491",
+    "created_at": "2020-02-07 14:51:37"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "11554",
+    "created_at": "2020-02-07 22:32:29"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "14893",
+    "created_at": "2020-02-08 00:57:57"
+  },
+  {
+    "first_device_type": "ASUS ZenFone 6",
+    "id": "99633",
+    "created_at": "2020-02-08 15:20:05"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "94501",
+    "created_at": "2020-02-08 17:26:34"
+  },
+  {
+    "first_device_type": "Apple iPhone 5",
+    "id": "99273",
+    "created_at": "2020-02-09 09:13:25"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "93227",
+    "created_at": "2020-02-09 10:50:05"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "92915",
+    "created_at": "2020-02-09 11:51:15"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "97688",
+    "created_at": "2020-02-09 18:29:32"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "97568",
+    "created_at": "2020-02-09 22:36:08"
+  },
+  {
+    "first_device_type": "Samsung Galaxy S4",
+    "id": "10018",
+    "created_at": "2020-02-09 23:14:59"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "11373",
+    "created_at": "2020-02-09 23:54:39"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "95147",
+    "created_at": "2020-02-10 03:05:12"
+  },
+  {
+    "first_device_type": "Samsung Galaxy S7 Active",
+    "id": "99856",
+    "created_at": "2020-02-10 05:31:16"
+  },
+  {
+    "first_device_type": "Apple iPhone 7",
+    "id": "94754",
+    "created_at": "2020-02-10 15:56:34"
+  },
+  {
+    "first_device_type": "Apple iPhone 5c",
+    "id": "91140",
+    "created_at": "2020-02-10 16:32:32"
+  },
+  {
+    "first_device_type": "Apple iPhone 6 Plus",
+    "id": "13331",
+    "created_at": "2020-02-11 02:49:45"
+  },
+  {
+    "first_device_type": "Apple iPod Touch 5G",
+    "id": "91055",
+    "created_at": "2020-02-11 07:06:00"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "91000",
+    "created_at": "2020-02-11 13:44:04"
+  },
+  {
+    "first_device_type": "Samsung Galaxy S5",
+    "id": "12579",
+    "created_at": "2020-02-11 15:15:19"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "14197",
+    "created_at": "2020-02-11 18:54:58"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "93219",
+    "created_at": "2020-02-11 19:20:59"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "96849",
+    "created_at": "2020-02-12 14:37:11"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "98662",
+    "created_at": "2020-02-12 21:41:25"
+  },
+  {
+    "first_device_type": "Samsung Galaxy S III",
+    "id": "10289",
+    "created_at": "2020-02-13 03:15:04"
+  },
+  {
+    "first_device_type": "Samsung Galaxy S5",
+    "id": "10419",
+    "created_at": "2020-02-13 05:38:33"
+  },
+  {
+    "first_device_type": "Motorola Moto G4",
+    "id": "12496",
+    "created_at": "2020-02-13 12:45:54"
+  },
+  {
+    "first_device_type": "Apple iPhone 5c",
+    "id": "92207",
+    "created_at": "2020-02-13 14:18:35"
+  },
+  {
+    "first_device_type": "Apple iPhone 6 Plus",
+    "id": "94565",
+    "created_at": "2020-02-13 16:18:45"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "92257",
+    "created_at": "2020-02-13 17:42:40"
+  },
+  {
+    "first_device_type": "Apple iPhone 4s",
+    "id": "79666",
+    "created_at": "2020-02-14 00:07:05"
+  },
+  {
+    "first_device_type": "Samsung Galaxy S4 Mini",
+    "id": "12914",
+    "created_at": "2020-02-14 03:11:09"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "93246",
+    "created_at": "2020-02-14 05:41:38"
+  },
+  {
+    "first_device_type": "Huawei P9",
+    "id": "93557",
+    "created_at": "2020-02-14 07:27:48"
+  },
+  {
+    "first_device_type": "Apple iPod Touch 5G",
+    "id": "92054",
+    "created_at": "2020-02-14 13:00:15"
+  },
+  {
+    "first_device_type": "Apple iPad 3",
+    "id": "96682",
+    "created_at": "2020-02-14 13:49:18"
+  },
+  {
+    "first_device_type": "LG G3",
+    "id": "10159",
+    "created_at": "2020-02-14 19:07:38"
+  },
+  {
+    "first_device_type": "Apple iPhone 7 Plus",
+    "id": "11233",
+    "created_at": "2020-02-14 23:32:47"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "92981",
+    "created_at": "2020-02-15 01:54:25"
+  },
+  {
+    "first_device_type": "Apple iPhone 4s",
+    "id": "93908",
+    "created_at": "2020-02-15 02:06:02"
+  },
+  {
+    "first_device_type": "Apple iPhone 6 Plus",
+    "id": "90997",
+    "created_at": "2020-02-15 03:03:14"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "11617",
+    "created_at": "2020-02-15 11:12:57"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "92663",
+    "created_at": "2020-02-15 17:19:56"
+  },
+  {
+    "first_device_type": "Apple iPhone 7 Plus",
+    "id": "92332",
+    "created_at": "2020-02-15 18:34:46"
+  },
+  {
+    "first_device_type": "Apple iPhone 5",
+    "id": "91847",
+    "created_at": "2020-02-15 20:04:40"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "90829",
+    "created_at": "2020-02-15 20:51:33"
+  },
+  {
+    "first_device_type": "Apple iPhone 7",
+    "id": "94172",
+    "created_at": "2020-02-15 22:15:42"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "94257",
+    "created_at": "2020-02-15 22:17:32"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "92637",
+    "created_at": "2020-02-15 22:57:06"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "94100",
+    "created_at": "2020-02-15 23:38:52"
+  },
+  {
+    "first_device_type": "Google Nexus 5",
+    "id": "99909",
+    "created_at": "2020-02-16 05:07:18"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "10072",
+    "created_at": "2020-02-16 06:02:25"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "93681",
+    "created_at": "2020-02-16 06:12:03"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "92617",
+    "created_at": "2020-02-16 07:33:35"
+  },
+  {
+    "first_device_type": "Samsung Galaxy Note 3",
+    "id": "10023",
+    "created_at": "2020-02-16 15:59:50"
+  },
+  {
+    "first_device_type": "Samsung Galaxy S4",
+    "id": "99699",
+    "created_at": "2020-02-16 16:06:06"
+  },
+  {
+    "first_device_type": "Apple iPhone 7 Plus",
+    "id": "92171",
+    "created_at": "2020-02-16 16:14:42"
+  },
+  {
+    "first_device_type": "Google Pixel XL",
+    "id": "10037",
+    "created_at": "2020-02-16 18:50:20"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "98494",
+    "created_at": "2020-02-16 21:35:33"
+  },
+  {
+    "first_device_type": "Samsung Galaxy S5 Mini",
+    "id": "10307",
+    "created_at": "2020-02-16 23:51:42"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "92519",
+    "created_at": "2020-02-16 23:58:15"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "10806",
+    "created_at": "2020-02-17 00:33:21"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "91586",
+    "created_at": "2020-02-17 01:18:22"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "95847",
+    "created_at": "2020-02-17 05:44:04"
+  },
+  {
+    "first_device_type": "Apple iPad 4",
+    "id": "90981",
+    "created_at": "2020-02-17 06:06:45"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "92520",
+    "created_at": "2020-02-17 06:31:47"
+  },
+  {
+    "first_device_type": "Samsung Galaxy S6",
+    "id": "99913",
+    "created_at": "2020-02-17 08:37:56"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "92086",
+    "created_at": "2020-02-17 09:31:39"
+  },
+  {
+    "first_device_type": "Apple iPod Touch 5G",
+    "id": "12479",
+    "created_at": "2020-02-17 10:37:51"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "12940",
+    "created_at": "2020-02-17 12:13:48"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "91477",
+    "created_at": "2020-02-17 14:27:49"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "91404",
+    "created_at": "2020-02-17 18:07:33"
+  },
+  {
+    "first_device_type": "Samsung Galaxy S5 Mini",
+    "id": "10081",
+    "created_at": "2020-02-17 19:41:58"
+  },
+  {
+    "first_device_type": "Apple iPhone 7",
+    "id": "94064",
+    "created_at": "2020-02-17 20:42:46"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "92756",
+    "created_at": "2020-02-17 21:14:46"
+  },
+  {
+    "first_device_type": "Apple iPhone 5c",
+    "id": "98702",
+    "created_at": "2020-02-17 22:53:13"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "94739",
+    "created_at": "2020-02-18 00:18:54"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "10051",
+    "created_at": "2020-02-18 00:31:59"
+  },
+  {
+    "first_device_type": "Samsung Galaxy S5",
+    "id": "10015",
+    "created_at": "2020-02-18 07:26:40"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "92884",
+    "created_at": "2020-02-18 10:32:07"
+  },
+  {
+    "first_device_type": "Google Nexus 7",
+    "id": "10051",
+    "created_at": "2020-02-18 11:58:10"
+  },
+  {
+    "first_device_type": "Apple iPad 4",
+    "id": "13922",
+    "created_at": "2020-02-18 11:58:59"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "93840",
+    "created_at": "2020-02-18 12:23:51"
+  },
+  {
+    "first_device_type": "Apple iPhone 5",
+    "id": "11337",
+    "created_at": "2020-02-18 12:31:53"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "10760",
+    "created_at": "2020-02-18 15:11:14"
+  },
+  {
+    "first_device_type": "Apple iPod Touch 5G",
+    "id": "92902",
+    "created_at": "2020-02-18 16:09:28"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s",
+    "id": "97950",
+    "created_at": "2020-02-18 18:05:23"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s",
+    "id": "98686",
+    "created_at": "2020-02-18 19:26:21"
+  },
+  {
+    "first_device_type": "Apple iPhone 5c",
+    "id": "94200",
+    "created_at": "2020-02-18 20:27:23"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s",
+    "id": "92333",
+    "created_at": "2020-02-18 21:24:11"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "98992",
+    "created_at": "2020-02-19 01:03:13"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "99591",
+    "created_at": "2020-02-19 02:16:19"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "92616",
+    "created_at": "2020-02-19 06:19:24"
+  },
+  {
+    "first_device_type": "Apple iPhone 5c",
+    "id": "94926",
+    "created_at": "2020-02-19 09:02:47"
+  },
+  {
+    "first_device_type": "Samsung Galaxy S5",
+    "id": "10057",
+    "created_at": "2020-02-19 11:10:05"
+  },
+  {
+    "first_device_type": "Samsung Galaxy Grand 2",
+    "id": "10039",
+    "created_at": "2020-02-19 13:33:11"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "95751",
+    "created_at": "2020-02-19 17:46:46"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "95121",
+    "created_at": "2020-02-19 20:27:27"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "10044",
+    "created_at": "2020-02-19 20:28:22"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s",
+    "id": "93426",
+    "created_at": "2020-02-19 21:26:10"
+  },
+  {
+    "first_device_type": "Apple iPod Touch 5G",
+    "id": "97192",
+    "created_at": "2020-02-19 23:52:39"
+  },
+  {
+    "first_device_type": "Apple iPhone 7",
+    "id": "95869",
+    "created_at": "2020-02-20 00:18:18"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "91180",
+    "created_at": "2020-02-20 00:40:13"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "93622",
+    "created_at": "2020-02-20 01:10:11"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "96652",
+    "created_at": "2020-02-20 05:45:30"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "97604",
+    "created_at": "2020-02-20 06:00:36"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "90863",
+    "created_at": "2020-02-20 08:32:05"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "91033",
+    "created_at": "2020-02-20 09:49:15"
+  },
+  {
+    "first_device_type": "Apple iPhone 7 Plus",
+    "id": "99869",
+    "created_at": "2020-08-20 15:38:30"
+  },
+  {
+    "first_device_type": "Samsung Galaxy S5",
+    "id": "10228",
+    "created_at": "2020-07-20 16:37:29"
+  },
+  {
+    "first_device_type": "Motorola Moto X 2nd Gen",
+    "id": "10228",
+    "created_at": "2021-02-20 17:20:32"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "14765",
+    "created_at": "2020-02-20 18:15:14"
+  },
+  {
+    "first_device_type": "Apple iPhone 7",
+    "id": "90833",
+    "created_at": "2020-02-20 20:09:18"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "91530",
+    "created_at": "2020-02-21 02:53:10"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "10612",
+    "created_at": "2020-02-21 03:04:50"
+  },
+  {
+    "first_device_type": "Apple iPod Touch 5G",
+    "id": "95915",
+    "created_at": "2020-02-21 03:41:22"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "95657",
+    "created_at": "2020-02-21 04:12:34"
+  },
+  {
+    "first_device_type": "Apple iPhone 4s",
+    "id": "11119",
+    "created_at": "2020-02-21 06:50:28"
+  },
+  {
+    "first_device_type": "Apple iPhone 6 Plus",
+    "id": "94073",
+    "created_at": "2020-01-01 07:03:44"
+  },
+  {
+    "first_device_type": "Apple iPad Air",
+    "id": "91703",
+    "created_at": "2020-02-21 07:10:28"
+  },
+  {
+    "first_device_type": "Apple iPhone 5",
+    "id": "92628",
+    "created_at": "2020-02-21 08:25:47"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "16373",
+    "created_at": "2020-02-21 08:41:10"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "99934",
+    "created_at": "2020-02-21 09:39:37"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "93110",
+    "created_at": "2020-02-21 11:35:16"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "93348",
+    "created_at": "2020-02-21 14:09:34"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "94058",
+    "created_at": "2020-02-21 15:20:05"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "97792",
+    "created_at": "2020-02-30 17:02:30"
+  },
+  {
+    "first_device_type": "Apple iPhone 6 Plus",
+    "id": "10800",
+    "created_at": "2020-02-21 18:15:11"
+  },
+  {
+    "first_device_type": "Apple iPhone 7",
+    "id": "91742",
+    "created_at": "2020-02-21 18:22:11"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s",
+    "id": "93202",
+    "created_at": "2020-02-21 19:09:50"
+  },
+  {
+    "first_device_type": "Apple iPhone 6 Plus",
+    "id": "95004",
+    "created_at": "2020-02-23 19:11:01"
+  },
+  {
+    "first_device_type": "LG G3",
+    "id": "99944",
+    "created_at": "2020-02-24 19:28:24"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "92556",
+    "created_at": "2020-02-25 19:56:20"
+  },
+  {
+    "first_device_type": "Apple iPad 4",
+    "id": "94315",
+    "created_at": "2020-02-21 20:13:09"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s",
+    "id": "94315",
+    "created_at": "2020-02-21 21:10:38"
+  },
+  {
+    "first_device_type": "Apple iPhone 7",
+    "id": "97758",
+    "created_at": "2020-02-21 21:25:49"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s",
+    "id": "92665",
+    "created_at": "2020-02-21 21:34:56"
+  },
+  {
+    "first_device_type": "Samsung Galaxy Tab A 9.7",
+    "id": "10547",
+    "created_at": "2020-02-21 22:00:05"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "91125",
+    "created_at": "2020-02-21 23:02:10"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "96127",
+    "created_at": "2020-02-22 01:06:58"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "96127",
+    "created_at": "2020-02-22 03:07:58"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "91751",
+    "created_at": "2020-02-22 03:12:40"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "94893",
+    "created_at": "2020-02-22 03:42:11"
+  },
+  {
+    "first_device_type": "Motorola Moto X Pure Edition",
+    "id": "99812",
+    "created_at": "2020-02-22 05:02:45"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "98630",
+    "created_at": "2020-02-22 05:31:44"
+  },
+  {
+    "first_device_type": "Apple iPhone 4s",
+    "id": "98630",
+    "created_at": "2020-02-22 05:58:23"
+  },
+  {
+    "first_device_type": "Apple iPhone 6s Plus",
+    "id": "91805",
+    "created_at": "2020-02-22 06:57:08"
+  },
+  {
+    "first_device_type": "Apple iPhone 5",
+    "id": "10793",
+    "created_at": "2020-02-22 08:55:31"
+  },
+  {
+    "first_device_type": "Apple iPhone 5",
+    "id": "93608",
+    "created_at": "2020-02-22 09:19:54"
+  },
+  {
+    "first_device_type": "Samsung Galaxy Tab 3 8.0",
+    "id": "99799",
+    "created_at": "2020-02-22 09:50:09"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "91852",
+    "created_at": "2020-02-22 10:37:17"
+  },
+  {
+    "first_device_type": "Sony Xperia Z2 Tablet",
+    "id": "10013",
+    "created_at": "2020-02-22 10:40:12"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "10365",
+    "created_at": "2020-02-22 11:24:44"
+  },
+  {
+    "first_device_type": "Apple iPhone 6 Plus",
+    "id": "10211",
+    "created_at": "2020-02-22 12:21:23"
+  },
+  {
+    "first_device_type": "Apple iPhone 5s",
+    "id": "91500",
+    "created_at": "2020-02-22 12:30:05"
+  },
+  {
+    "first_device_type": "Apple iPhone 6",
+    "id": "21865",
+    "created_at": "2020-02-22 15:04:02"
+  },
+{
+	"id": "21866",
+	"device_model" "Apple iPhone 8,
+	"created_at": "2021-01-10 00:00:20.500000+00:00"
+}
+	"id": "21866",
+	"device_model": "Apple iPhone 11",
+	"created_at": "21622975988"
+},
+{
+	"id": " 21867",
+	"device_model": "Samsung Galaxy S7/Edge",
+	"created_at": "0000-00-00 00:00:0.000000+00:00"
+},
+{
+	"id": "21867",
+	"device_model": " Galaxy A01 Core",
+	"created_at": "21622975988"
+},
+{
+	"id": "21868",
+	"device_model": " Samsung Galaxy Z Fold 2",
+	"created_at": "1591439988"
+},
+{
+	"id": "21868",
+	"device_model": "Samsung Galaxy S20 FE",
+	"created_at": "1603926634000"
+},
+{
+	"id": "21868",
+	"device_model": "Samsung Galaxy A11",
+	"created_at": "1625580259038"
+}
+]
