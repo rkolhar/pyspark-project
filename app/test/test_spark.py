@@ -1,11 +1,6 @@
-import pyspark
 import pytest
-import os
-import sys
-import pandas as pd
 from pyspark.sql import SparkSession
-from pyspark.sql import functions as F
-from src.sleep_duration import sleep_range
+from app.src.sleep_duration import sleep_range
 
 
 @pytest.fixture(scope="session")

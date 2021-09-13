@@ -4,19 +4,16 @@ import sys
 from pyspark.sql import SparkSession
 from pyspark import SparkConf
 from config.logger import Log4j
-from fix_json import fix_json, aggregate_model, read_parquet
-from sleep_duration import read_source_2, sleep_range, write_sleep
-#from aggregate_events import read_source_1, unionAll, write_join
+from src.fix_json import fix_json, aggregate_model, read_parquet
+from src.sleep_duration import read_source_2, sleep_range, write_sleep
 
 
 def main():
     conf = SparkConf()
-    conf.set("spark.app.name", "clue")
-    conf.set("spark.master", "local[4]")
-    spark = SparkSession.builder\
-        .config(conf=conf)\
-        .appName("clue")\
-        .master("local[4]")\
+    spark = SparkSession.builder \
+        .config(conf=conf) \
+        .appName("clue") \
+        .master("local[2]") \
         .getOrCreate()
 
     logger = Log4j(spark)
@@ -28,10 +25,11 @@ def main():
     aggregate_model(df)
     logger.info("Aggregating users per device model")
 
-    logger.info('Read source 2')
+    logger.info('Reading source 2 ...')
     read_df = read_source_2(spark)
+    logger.info('Computing sleep range')
     sleep_df = sleep_range(read_df)
-    logger.info('computed sleep range')
+    logger.info('Done!')
     write_sleep(sleep_df)
 
     # TO DO

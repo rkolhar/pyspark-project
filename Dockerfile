@@ -5,7 +5,7 @@ ENV HADOOP_VERSION=3.2
 ENV SPARK_HOME=/opt/spark
 ENV PYTHONHASHSEED=1
 
-RUN apt-get update && apt-get install -y curl vim wget software-properties-common ssh net-tools ca-certificates python3
+RUN apt-get update && apt-get install -y curl vim wget software-properties-common ssh net-tools ca-certificates python3 python3-pip
 
 RUN update-alternatives --install "/usr/bin/python" "python" "$(which python3)" 1
 
@@ -36,5 +36,11 @@ ln -sf /dev/stdout $SPARK_MASTER_LOG && \
 ln -sf /dev/stdout $SPARK_WORKER_LOG
 
 COPY start-spark.sh /
+
+ADD requirements.txt /opt/spark
+
+
+RUN python3 -m pip install --upgrade pip
+RUN pip install -r requirements.txt
 
 CMD ["/bin/bash", "/start-spark.sh"]

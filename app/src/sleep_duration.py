@@ -11,8 +11,8 @@ def read_source_2(spark):
     :param spark:
     :return: df
     """
-   # df = spark.read.option("header", "True").csv("../input/data_source_2.tar.gz", sep=',')
-    df = spark.read.option("header", "True").csv("../input/data_source_2.csv", sep=',')
+    sleep_file = "/opt/spark-input/data_source_2.csv"
+    df = spark.read.option("header", "True").csv(sleep_file)
 
     return df
 
@@ -52,9 +52,8 @@ def sleep_range(df):
 
     drop_cols = ('startTime', 'endTime', 'Duration')
     df_hours = df_hours.drop(*drop_cols)
-    df_hours.show(5)
-    df_hours.printSchema()
-    df_hours = df_hours.persist(StorageLevel.MEMORY_AND_DISK)
+   # df_hours.show(5)
+   # df_hours.printSchema()
     return df_hours
 
 
@@ -64,15 +63,19 @@ def write_sleep(df_hours):
     :param df_hours:
     :return:
     """
+
     df_hours.write\
         .option("header", "true") \
-         .option("compression", "gzip")\
+        .option("compression", "gzip")\
         .mode("overwrite")\
-        .csv("../output/sleep_range1.csv")\
-
+        .csv("/opt/spark-output/sleep_range.csv.gz")
 
     # df_hours.write \
     #     .option("header", "true") \
     #     .mode("overwrite") \
-    #     .parquet("../output/sleep_range.parquet")\
+    #     .parquet("/opt/spark-output/sleep_range.parquet")\
     #     .createOrReplaceTempView("parquetTable")
+
+
+
+

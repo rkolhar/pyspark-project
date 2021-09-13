@@ -1,9 +1,6 @@
-import logging
-
 import regex as re
 import json
 import pandas as pd
-from config.logger import Log4j
 
 
 def fix_json():
@@ -11,7 +8,9 @@ def fix_json():
     takes corrupt json file and uses regex to fix it
     :return: farquet file
     """
-    with open('../input/data_source_3.json', "r", encoding="utf-8") as f:
+    in_file = "/opt/spark-input/data_source_3.json"
+
+    with open(in_file, "r", encoding="utf-8") as f:
         bad_json = f.read()
 
     fix_1 = re.sub(r"(\"\w+\") (\"\w+\s\w+\s\d),", r'\1: \2",', bad_json)
@@ -20,7 +19,7 @@ def fix_json():
 
     json_list = json.loads(fix_3)
     df = pd.DataFrame(json_list)
-    df.to_parquet('../output/fixed_json.parquet')
+    df.to_parquet("/opt/spark-output/fixed_json.parquet")
 
 
 def read_parquet():
@@ -28,7 +27,8 @@ def read_parquet():
     Read parquet file as a dataframe
     :return: df2
     """
-    df2 = pd.read_parquet('../output/fixed_json.parquet')
+    out_file = "/opt/spark-output/fixed_json.parquet"
+    df2 = pd.read_parquet(out_file)
 
     return df2
 
@@ -51,8 +51,8 @@ def aggregate_model(df):
     df_created = (df_model.set_index(['id', df_model.groupby('id').cumcount()])['created_at']
                   .unstack(fill_value='').rename(columns = lambda y : f'created_at_{y+1}'))
 
-    df_result = pd.concat([df_device, df_created], axis=1).reset_index()
+    df_result = pd.concat([df_device, df_created], axis=1)
 
-    df_result.to_parquet('../output/aggregated_model.parquet')
-    df_result.to_csv('../output/aggregated_model.csv')
+    df_result.to_parquet("/opt/spark-output/aggregated_model.parquet")
+   # df_result.to_csv('../output/aggregated_model.csv')
     return df_result
