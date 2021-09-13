@@ -1,3 +1,5 @@
+import logging
+
 import regex as re
 import json
 import pandas as pd
@@ -5,6 +7,10 @@ from config.logger import Log4j
 
 
 def fix_json():
+    """
+    takes corrupt json file and uses regex to fix it
+    :return: farquet file
+    """
     with open('../input/data_source_3.json', "r", encoding="utf-8") as f:
         bad_json = f.read()
 
@@ -15,18 +21,27 @@ def fix_json():
     json_list = json.loads(fix_3)
     df = pd.DataFrame(json_list)
 
+    logging.INFO("Fixed corrupt json file")
     df.to_parquet('../output/fixed_json.parquet')
-  #  return df
-  #  print(df2.head(10))
+    logging.INFO("Json file is written to parquet format")
 
 
 def read_parquet():
+    """
+    Read parquet file as a dataframe
+    :return: df2
+    """
     df2 = pd.read_parquet('../output/fixed_json.parquet')
 
     return df2
 
 
 def aggregate_model(df):
+    """
+
+    :param df:
+    :return:
+    """
 
     df = pd.concat(i for _, i in df.groupby("id") if len(i) > 1)
     df[["model_name"]] = [df['first_device_type'].str.split(" ", n=0, expand=True)]
@@ -40,7 +55,8 @@ def aggregate_model(df):
                   .unstack(fill_value='').rename(columns = lambda y : f'created_at_{y+1}'))
 
     df_result = pd.concat([df_device, df_created], axis=1).reset_index()
-    print(df_result)
+   # print(df_result)
+    logging.INFO("Aggregation of device models per user is done")
     df_result.to_parquet('../output/aggregated_model.parquet')
     df_result.to_csv('../output/aggregated_model.csv')
     return df_result

@@ -1,11 +1,12 @@
 #!/usr/bin/env python
 
+import sys
 from pyspark.sql import SparkSession
 from pyspark import SparkConf
 from config.logger import Log4j
 from fix_json import fix_json, aggregate_model, read_parquet
 from sleep_duration import read_source_2, sleep_range, write_sleep
-from aggregate_events import  read_source_1, unionAll, write_join
+#from aggregate_events import read_source_1, unionAll, write_join
 
 
 def main():
@@ -40,7 +41,7 @@ def main():
 	spark.stop()
 
 if __name__ == "__main__":
- #   try:
-	main()
- #   except RuntimeError:
- #       sys.exit(1)
+	try:
+		main()
+   	except RuntimeError:
+		sys.exit(1)

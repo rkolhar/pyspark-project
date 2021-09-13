@@ -6,12 +6,24 @@ from pyspark import StorageLevel
 
 
 def read_source_2(spark):
+    """
+    Read data source 2 file
+    :param spark:
+    :return: df
+    """
    # df = spark.read.option("header", "True").csv("../input/data_source_2.tar.gz", sep=',')
     df = spark.read.option("header", "True").csv("../input/data_source_2.csv", sep=',')
+
     return df
 
 
 def compute_delta(y, x):
+    """
+    A udf to compute time difference between start and end time
+    :param y:
+    :param x:
+    :return: sleep duration in hours
+    """
     end = datetime.strptime(y, '%Y-%m-%dT%H:%M:%S.%f%z')
     start = datetime.strptime(x, '%Y-%m-%dT%H:%M:%S.%f%z')
     delta = (end-start).total_seconds()
@@ -23,8 +35,12 @@ def compute_delta(y, x):
 match_hour_udf = F.udf(compute_delta, IntegerType())
 
 
-# Apply function
 def sleep_range(df):
+    """
+    Apply udf function
+    :param df:
+    :return: df_hours
+    """
     df_hours = df.withColumn('Duration', match_hour_udf(F.col('endTime'), F.col('startTime')))\
         .withColumn('value',
                     F.when((F.col('Duration').between(0, 3)), "0-3")
@@ -43,6 +59,11 @@ def sleep_range(df):
 
 
 def write_sleep(df_hours):
+    """
+    write results in compressed form
+    :param df_hours:
+    :return:
+    """
     df_hours.write\
         .option("header", "true") \
          .option("compression", "gzip")\
