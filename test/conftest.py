@@ -10,6 +10,6 @@ def quiet_py4j():
 
 @pytest.fixture(scope="session")
 def spark():
-    spark = SparkSession.builder.master("local[2]") \
+    spark = SparkSession.builder.master("local[4]") \
         .appName('clue').getOrCreate()
     return spark

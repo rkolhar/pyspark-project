@@ -44,15 +44,15 @@ def sleep_range(df):
     df_hours = df.withColumn('Duration', match_hour_udf(F.col('endTime'), F.col('startTime')))\
         .withColumn('value',
                     F.when((F.col('Duration').between(0, 3)), "0-3")
-                     .when((F.col('Duration').between(3, 6)), "3-6")
-                     .when((F.col('Duration').between(6, 9)), "6-9")
+                     .when((F.col('Duration').between(4, 6)), "3-6")
+                     .when((F.col('Duration').between(7, 9)), "6-9")
                      .when((F.col('Duration') > 9), ">9")
                      .otherwise('na'))\
         .withColumn('date', to_timestamp('endTime').cast('string'))
 
     drop_cols = ('startTime', 'endTime', 'Duration')
     df_hours = df_hours.drop(*drop_cols)
-   # df_hours.show(10)
+    df_hours.show(5)
     df_hours.printSchema()
     df_hours = df_hours.persist(StorageLevel.MEMORY_AND_DISK)
     return df_hours

@@ -20,10 +20,7 @@ def fix_json():
 
     json_list = json.loads(fix_3)
     df = pd.DataFrame(json_list)
-
-    logging.INFO("Fixed corrupt json file")
     df.to_parquet('../output/fixed_json.parquet')
-    logging.INFO("Json file is written to parquet format")
 
 
 def read_parquet():
@@ -55,8 +52,7 @@ def aggregate_model(df):
                   .unstack(fill_value='').rename(columns = lambda y : f'created_at_{y+1}'))
 
     df_result = pd.concat([df_device, df_created], axis=1).reset_index()
-   # print(df_result)
-    logging.INFO("Aggregation of device models per user is done")
+
     df_result.to_parquet('../output/aggregated_model.parquet')
     df_result.to_csv('../output/aggregated_model.csv')
     return df_result

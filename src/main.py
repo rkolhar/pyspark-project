@@ -10,38 +10,39 @@ from sleep_duration import read_source_2, sleep_range, write_sleep
 
 
 def main():
-	conf = SparkConf()
-	conf.set("spark.app.name", "clue")
-	conf.set("spark.master", "local[2]")
-	spark = SparkSession.builder\
-		.config(conf=conf)\
-		.appName("clue")\
-		.master("local[2]")\
-		.getOrCreate()
+    conf = SparkConf()
+    conf.set("spark.app.name", "clue")
+    conf.set("spark.master", "local[4]")
+    spark = SparkSession.builder\
+        .config(conf=conf)\
+        .appName("clue")\
+        .master("local[4]")\
+        .getOrCreate()
 
-	logger = Log4j(spark)
+    logger = Log4j(spark)
 
-	fix = fix_json()
-	df = read_parquet()
-	aggregate_model(df)
+    logger.info("Fixing Json")
+    fix_json()
+    logger.info("Converting to parquet")
+    df = read_parquet()
+    aggregate_model(df)
+    logger.info("Aggregating users per device model")
 
-#	read_df = read_source_2(spark)
-#	sleep_df = sleep_range(read_df)
-#	write_sleep(sleep_df)
+    logger.info('Read source 2')
+    read_df = read_source_2(spark)
+    sleep_df = sleep_range(read_df)
+    logger.info('computed sleep range')
+    write_sleep(sleep_df)
 
-#	read_2_df = read_source_1(spark)
-#	sleep_join = unionAll(read_2_df, sleep_df)
-#	write_join(sleep_join)
+    # TO DO
+    # correct utc timestamp
+    # drop created_3?
 
-	# TO DO
-	# correct utc timestamp
-	# model _name convention for apple
-	# drop created_3?
-	
-	spark.stop()
+    spark.stop()
+
 
 if __name__ == "__main__":
-	try:
-		main()
-   	except RuntimeError:
-		sys.exit(1)
+    try:
+        main()
+    except RuntimeError:
+        sys.exit(1)
