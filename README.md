@@ -14,8 +14,13 @@ docker compose up
 ### To run pyspark, exec into the master/worker container
 ```bash
 winpty docker exec -it new_clue_spark-master_1 bash
+
 ```
 or 
 ```bash
 docker exec -it new_clue_spark-master_1 /bin/bash
+```
+### spark submit
+```bash
+/opt/spark/bin/spark-submit --master spark://spark-master:7077  /opt/spark-app/main.py
 ```
