@@ -6,7 +6,7 @@ This repo makes use of pandas library and pyspark framework to complete the task
 
 ## Documentation:
 ### Task 1 - fix the corrupt json file:
-Pandas and regex packages are used to fix the json The fixed json file is then written as a parquet file in data folder - fixed_json.parquet
+Pandas and regex packages are used to fix the json. The fixed json file is then written as a parquet file in data folder - fixed_json.parquet.
 If the data were to scale higher, I would create a udf with spark function to still have the flexibility to use regex.
 
 ### Task 2 - Aggregating multiple device per user:
