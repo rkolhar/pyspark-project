@@ -1,18 +1,29 @@
 FROM openjdk:11.0.11-jre-slim-buster as builder
 
 ENV SPARK_VERSION=3.1.2
-ENV HADOOP_VERSION=3.2
+ENV HADOOP_VERSION=2.7
+ENV HADOOP_FULL_VERSION=2.7.0
 ENV SPARK_HOME=/opt/spark
+ENV HADOOP_HOME=/opt/spark
 ENV PYTHONHASHSEED=1
+ENV PATH $PATH:$HADOOP_HOME/bin
+ENV PATH $PATH:$SPARK_HOME/bin
+ENV PYSPARK_PYTHON python3
 
 RUN apt-get update && apt-get install -y curl vim wget software-properties-common ssh net-tools ca-certificates python3 python3-pip
 
 RUN update-alternatives --install "/usr/bin/python" "python" "$(which python3)" 1
 
+# Spark
 RUN wget --no-verbose -O apache-spark.tgz "https://archive.apache.org/dist/spark/spark-${SPARK_VERSION}/spark-${SPARK_VERSION}-bin-hadoop${HADOOP_VERSION}.tgz" \
 && mkdir -p /opt/spark \
 && tar -xf apache-spark.tgz -C /opt/spark --strip-components=1 \
 && rm apache-spark.tgz
+
+# Hadoop
+RUN wget --no-verbose -O apache-hadoop.tgz "http://archive.apache.org/dist/hadoop/common/hadoop-${HADOOP_FULL_VERSION}/hadoop-${HADOOP_FULL_VERSION}.tar.gz" \
+&& tar -xf apache-hadoop.tgz -C /opt/spark --strip-components=1 \
+&& rm apache-hadoop.tgz
 
 FROM builder as apache-spark
 WORKDIR /opt/spark

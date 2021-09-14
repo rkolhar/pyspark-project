@@ -1,5 +1,5 @@
-from pyspark.sql.functions import  to_date
-from pyspark.sql.types import  DoubleType, StructType, StringType
+from pyspark.sql.functions import to_date
+from pyspark.sql.types import DoubleType
 from pyspark.sql import functions as F
 from datetime import datetime
 
@@ -10,8 +10,7 @@ def read_source_2(spark):
     :param spark:
     :return: df
     """
-    sleep_file = "/opt/spark-input/data_source_2.csv"
-  #  sleep_file = "../input/test_2.csv"
+    sleep_file = "/opt/spark-data/data_source_2.csv"
     df = spark.read.option("header", "True").csv(sleep_file)
 
     return df
@@ -64,26 +63,17 @@ def write_sleep(df_hours):
     :return:
     """
 
-    schema = StructType()\
-        .add("userId", StringType())\
-        .add("value", StringType())\
-        .add("date", StringType())
+    # df_hours.write.mode("overwrite")\
+    #     .option("header", True)\
+    #     .option("compression", "gzip")\
+    #     .csv("/opt/spark-data/sleep.csv")
 
+    df_hours.write \
+        .option("header", True) \
+        .mode("overwrite") \
+        .format("parquet") \
+        .save("/opt/spark-data/sleep_range.parquet")
 
-    # df_hours.write\
-    #     .option("header", True) \
-    #     .mode("overwrite")\
-    #     .csv("/opt/spark-output/sleep_range.csv")
-
-    df_hours.write.mode("overwrite").option("header", True).option("compression", "gzip").csv("/opt/spark-output/sleep.csv")
-
-# \
-    #
-    # df_hours.write \
-    #     .option("header", True) \
-    #     .mode("overwrite") \
-    #     .parquet("/opt/spark-output/sleep_range.parquet")\
-    #     .createOrReplaceTempView("parquetTable")
 
 
 
