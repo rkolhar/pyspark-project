@@ -1,5 +1,5 @@
 class Log4j(object):
-	
+
     def __init__(self, spark):
         root_class = "clue"
         conf = spark.sparkContext.getConf()

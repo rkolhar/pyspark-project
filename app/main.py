@@ -32,10 +32,6 @@ def main():
     logger.info('Done!')
     write_sleep(sleep_df)
 
-    # TO DO
-    # correct utc timestamp
-    # drop created_3?
-
     spark.stop()
 
 
