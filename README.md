@@ -1,10 +1,10 @@
 # Hello Clue
 This repo makes use of pandas library and pyspark framework to complete the tasks.
-### Spark version used: 3.1.2
-### Hadoop version used: 2.7
+#### Spark version used: 3.1.2
+#### Hadoop version used: 2.7
 
 
-##Documentation:
+## Documentation:
 ### Task 1 - fix the corrupt json file:
 Pandas and regex packages are used to fix the json The fixed json file is then written as a parquet file in data folder - fixed_json.parquet
 If the data were to scale higher, I would create a udf with spark function to still have the flexibility to use regex.
