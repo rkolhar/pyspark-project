@@ -22,6 +22,8 @@ This task makes use of pyspark and udf function to compute time difference betwe
 
 
 ## How to run:
+Extract data_src_2.tar to csv in data folder before running.
+
 ### Build a docker image
 ```bash
 docker build -t pyspark_cluster:3.1.2 .
