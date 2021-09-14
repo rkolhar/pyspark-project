@@ -28,12 +28,12 @@ docker build -t pyspark_cluster:3.1.2 .
 ```
 ### Run docker-compose
 ```bash
-docker compose up
+docker compose up 
 ```
 
 ### To run pyspark, exec into the master/worker container
 ```bash
-winpty docker exec -it new_clue_spark-master_1 bash
+winpty docker exec -it clue_spark-master_1 bash
 
 ```
 
