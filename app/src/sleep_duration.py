@@ -72,7 +72,7 @@ def write_sleep(df_hours):
         .option("header", True) \
         .mode("overwrite") \
         .format("parquet") \
-        .save("/opt/spark-data/sleep_range.parquet")
+        .save("/opt/spark-data/sleep_range1.parquet")
 
 
 
