@@ -1,5 +1,5 @@
-# Hello Clue
-This repo makes use of pandas library and pyspark framework to complete the tasks.
+# Pyspark
+This repo makes use of pandas library and pyspark framework to complete the following tasks.
 #### Spark version used: 3.1.2
 #### Hadoop version used: 2.7
 
@@ -11,7 +11,7 @@ If the data were to scale higher, I would create a udf with spark function to st
 
 ### Task 2 - Aggregating multiple device per user:
  Assumption: Parquet output format is expandable to device_model_3 and created_at_3
-##### 1.In the given json file, if a particular user id  were to use 3 device models to access the clue app(let's say, iPhone 5, iPhone6, iPhone5s) then the parquet file would have an extra column device_model_3.
+##### 1.In the given json file, if a particular user id  were to use 3 device models to access the app(let's say, iPhone 5, iPhone6, iPhone5s) then the parquet file would have an extra column device_model_3.
 ##### 2. If the model is same, but has different created timestamps, I have again created an extra column for created_at_3. Another option would have been to only take latest created at timestamp.
 
 This task also makes use of pandas to aggregate users and pyarrow library to convert the output to parquet file.
