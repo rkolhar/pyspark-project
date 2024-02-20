@@ -43,12 +43,3 @@ winpty docker exec -it clue_spark-master_1 bash
 ```bash
 /opt/spark/bin/spark-submit --master spark://spark-master:7077  /opt/spark-app/main.py
 ```
-
-### What to expect:
-Docker compose is set up and runs through the application. However, in the last step while storing the results to parquet, sometimes, I ran into Py4JJavaError: An error occurred while calling o106.save. 
-This is not a consistent behaviour. The output file is stored under data folder.
-
-### What I could have done better:
-- Test cases
-- Take care of the formats of timestamps in json file.
-- And of course, try to fix the inconsistent behaviour when using docker compose.
